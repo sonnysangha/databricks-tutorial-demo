@@ -19,7 +19,7 @@ with tempfile.TemporaryDirectory(prefix='papaeats-starter-') as temporary:
     (kit / 'TUTORIAL.md').write_text(tutorial)
     (kit / 'docs').mkdir()
     setup = (ROOT / 'docs/SETUP.md').read_text()
-    setup = setup.replace('](../README.md#follow-the-demo)', '](../TUTORIAL.md#follow-the-demo)')
+    setup = setup.replace('](../README.md#', '](../TUTORIAL.md#')
     setup = setup.replace('](images/', '](https://raw.githubusercontent.com/sonnysangha/databricks-tutorial-demo/main/docs/images/')
     setup = setup.replace('](../prompts/genie-code.md)', '](../prompts.md)')
     (kit / 'docs/SETUP.md').write_text(setup)

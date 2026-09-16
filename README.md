@@ -6,6 +6,8 @@ Follow the demo step by step: turn messy customer feedback into saved analysis, 
 
 PapaEats is a fictional food-delivery app. The supplied exports are synthetic. This project accompanies a Databricks-sponsored tutorial.
 
+**Want your coding agent to do the setup?** Follow [the Databricks Agent Skills instructions](#set-this-up-with-your-favourite-coding-agent), then use the demo steps to explore your results.
+
 ## Before you begin
 
 1. Get the project:
@@ -22,6 +24,121 @@ PapaEats is a fictional food-delivery app. The supplied exports are synthetic. T
 Use your own workspace paths and resource IDs. The prompts below are the prompts used in the demo. Select the relevant files/tables in Genie Code or give it their full paths before sending them. Read its proposed code before running it.
 
 **Using the supplied implementation:** the [setup reference](docs/SETUP.md) provides the exact notebook and job route if you want to run the included code. If those steps have already created an asset, open it and inspect its results at the matching demo step rather than recreating it. If you build with the prompts, use the supplied notebook's table names and column definitions so the later app can read your results.
+
+## Set this up with your favourite coding agent
+
+You can ask your coding agent to set up this project for you, then follow the demo below to understand each feature. The official **Databricks Agent Skills** give the agent Databricks-specific instructions for working with jobs, SQL, Unity Catalog, dashboards, Lakebase, and MLflow. Install them in the coding tool where you open this repository. [Official overview](https://docs.databricks.com/aws/en/agent-skills/)
+
+### 1. Install the Databricks skills
+
+Install or update the [Databricks CLI](https://docs.databricks.com/aws/en/dev-tools/cli/install), then run these commands from the cloned repository:
+
+```bash
+databricks --version
+databricks aitools install --scope project
+```
+
+Choose your coding agent in the interactive installer. To target one directly, use its identifier:
+
+| Coding agent | `--agents` value |
+|---|---|
+| Claude Code | `claude-code` |
+| Codex CLI | `codex` |
+| Cursor | `cursor` |
+| GitHub Copilot | `copilot` |
+| OpenCode | `opencode` |
+| Gemini CLI | `gemini` |
+| Antigravity | `antigravity` |
+| Pi | `pi` |
+
+For example, choose **one** command matching your tool:
+
+```bash
+databricks aitools install --agents codex --scope project
+databricks aitools install --agents claude-code --scope project
+databricks aitools install --agents cursor --scope project
+```
+
+Use `--scope global` instead if you want the installation available across projects. The current installer uses plugins for supported agents and raw skill files for others. Add `--skills-only` to explicitly install skill files without a plugin:
+
+```bash
+databricks aitools install --agents codex --scope project --skills-only
+```
+
+These options were checked against Databricks CLI **v1.16.0**. If your CLI does not recognize them, update it and check `databricks aitools install --help`. [Current CLI installation options](https://docs.databricks.com/aws/en/dev-tools/cli/reference/aitools-commands)
+
+For a marketplace alternative, Claude Code supports `/plugin marketplace add databricks/databricks-agent-skills` followed by `/plugin install databricks@databricks-agent-skills`; Cursor supports `/add-plugin databricks`. Choose one installation method. For the Codex plugin, review and enable its hooks with `/hooks` after installing or updating. The skills-only route does not include those hooks. [Official plugin instructions](https://github.com/databricks/databricks-agent-skills#installation)
+
+### 2. Verify installation and connect your workspace
+
+```bash
+databricks aitools list --scope project
+```
+
+Start a new session in your coding agent with this repository open, and ask it to confirm that it can load `databricks-core` and the relevant product skills. Listing installed files is useful, but the agent should also confirm it can discover them in its current session.
+
+Choose a profile for your workspace and complete the OAuth browser login:
+
+```bash
+databricks auth login --host https://YOUR-WORKSPACE.cloud.databricks.com --profile papaeats-demo
+databricks current-user me --profile papaeats-demo
+```
+
+Replace the workspace URL and use the same chosen profile in the setup prompt and generated configuration. Installing skills does not sign you in or grant access. Your agent needs terminal access to the authenticated CLI to perform the setup. Managed MCP servers are an additional connection option; skills installation does not configure them automatically. This tutorial can use the CLI route. [Skills and workspace tools](https://docs.databricks.com/aws/en/agent-skills/#ai-tools-and-managed-mcp-servers)
+
+### 3. Give your agent this setup prompt
+
+Paste this into your coding agent with the repository open. Replace the profile name if you chose a different one:
+
+```text
+Set up this PapaEats Databricks tutorial in my workspace. Carry out the setup
+and verify the results, rather than only giving me a plan or commands to run.
+
+Read README.md, docs/SETUP.md, and follow-along/README.md first. Load the
+Databricks core skill, then the relevant skills for Unity Catalog, SQL,
+AI functions, Lakeflow Jobs, dashboards, Genie, Lakebase, and MLflow.
+
+Use my explicitly selected CLI profile: papaeats-demo. Verify the workspace
+and signed-in identity before making changes. If that profile is unavailable,
+ask me to choose one; do not silently select another. Use browser OAuth when
+login is needed and keep credentials out of code, logs, and Git.
+
+Inspect existing resources and ask me which catalog, main schema, separate
+app schema, SQL warehouse, and Lakebase project/database to use or create.
+Reuse this repository's implementation and configuration renderer. Do not
+replace the Next.js app with a different scaffold or overwrite unrelated data.
+
+Extract dist/papaeats-starter.zip, populate its identifier-only config.json,
+and render my-papaeats. Create the baseline tables and raw volume, upload the
+four exports, import the configured notebooks, and create the main refresh
+job. Run it, wait for completion, and inspect all four tasks and table checks.
+
+Build the dashboard and Genie Agent over the main tables using the README's
+instructions. Create the separate app tables and Lakebase operational tables,
+configure the app job and its permissions, and put its ID in web/.env.local.
+Install dependencies, run the local checks, and start the app on port 3017.
+
+Verify one fictional submission through to its saved result. Inspect its
+MLflow trace, save an owner/priority/decision, and reload to confirm persistence.
+Run the saved-classification quality evaluation and inspect flagged examples.
+
+Keep the frontend local and jobs unscheduled. At the end, give me the local
+app URL, workspace links, resource IDs, checks that passed, and any remaining
+blockers. Distinguish local build success from actual successful cloud runs.
+If a step needs a UI action you cannot perform, tell me the exact action and
+continue with the remaining work that is possible.
+```
+
+If you only downloaded the starter ZIP, tell the agent to read `TUTORIAL.md`, `docs/SETUP.md`, and the extracted `README.md` instead of the repository paths, and to skip the extraction step when it is already extracted.
+
+The agent can perform the setup through its available tools once it has your chosen resources and permissions. Login, unavailable features, quotas, or restricted agent tools may still require your input. Use the step-by-step walkthrough below to inspect what it created; do not treat a generated configuration file as proof that the workflow ran.
+
+To check for skill updates later:
+
+```bash
+databricks aitools update --check
+databricks aitools update
+```
 
 ## Follow the demo
 

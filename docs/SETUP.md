@@ -42,6 +42,8 @@ The main dataset powers the dashboard and Genie Agent. The app starts with its o
 
 *The local app’s workflow guide. Cloud processing and saved results require the setup below.*
 
+Prefer help from your coding agent? See [installing Databricks Agent Skills and the setup prompt](../README.md#set-this-up-with-your-favourite-coding-agent). The agent should carry out the same setup and verification steps documented here.
+
 ## Setup contents
 
 1. [Prerequisites](#1-prerequisites)

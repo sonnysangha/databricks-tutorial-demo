@@ -2,6 +2,8 @@
 
 Follow the [complete tutorial](https://github.com/sonnysangha/databricks-tutorial-demo#readme). The downloadable ZIP also includes `TUTORIAL.md` for reference and `prompts.md` for copyable prompts.
 
+You can also [install Databricks Agent Skills and ask your coding agent to perform the setup](https://github.com/sonnysangha/databricks-tutorial-demo#set-this-up-with-your-favourite-coding-agent). Give it the repository or this extracted starter, including `TUTORIAL.md` and `docs/SETUP.md`.
+
 1. [Create a Databricks workspace](https://login.databricks.com/signup?provider=DB_FREE_TIER&utm_medium=influencer&utm_campaign=plug-pilot&utm_source=youtube&utm_content=short&utm_term=sonnysangha).
 2. Sign in with a CLI profile you explicitly choose. Create/select your SQL warehouse and a dedicated Lakebase database.
 3. Extract `dist/papaeats-starter.zip`. Work inside the extracted `papaeats-starter` directory, alongside `template/`.
