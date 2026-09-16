@@ -1,6 +1,6 @@
 # Application integration
 
-Follow [README setup steps](../README.md#8-connect-the-application) before running the app.
+Follow [README setup steps](../docs/SETUP.md#8-connect-the-application) before running the app.
 
 ## Request flow
 

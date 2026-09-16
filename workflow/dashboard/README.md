@@ -1,6 +1,6 @@
 # Feedback dashboard
 
-Follow the [dashboard walkthrough](../../README.md#6-build-the-dashboard).
+Follow the [dashboard walkthrough](../../docs/SETUP.md#6-build-the-dashboard).
 
 `dataset.sql` uses one row-level evidence table for every widget and filter. The unconfigured query uses `feedback_with_issue_type`; choose your main catalog/schema in the SQL editor. The starter renders a fully qualified table name.
 

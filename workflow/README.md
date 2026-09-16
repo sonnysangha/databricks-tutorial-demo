@@ -1,6 +1,6 @@
 # Feedback processing
 
-See the [tutorial](../README.md#5-clean-classify-and-publish) for first-run setup and the generated `main-job.json` route.
+See the [tutorial](../docs/SETUP.md#5-clean-classify-and-publish) for first-run setup and the generated `main-job.json` route.
 
 The main notebook processes exports in four steps: **prepare → analyze → group → publish**. Run `sql/00_bootstrap.sql` first to create empty baseline tables. Interactive execution defaults to review-only; processing requires a numeric job run ID.
 

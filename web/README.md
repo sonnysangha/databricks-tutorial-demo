@@ -1,6 +1,6 @@
 # PapaEats Next.js application
 
-Start with the [complete tutorial](../README.md#8-connect-the-application). Its starter configures the app, notebooks, and job definitions consistently for your workspace.
+Start with the [complete tutorial](../docs/SETUP.md#8-connect-the-application). Its starter configures the app, notebooks, and job definitions consistently for your workspace.
 
 Use Node.js 24+. In your configured app directory:
 

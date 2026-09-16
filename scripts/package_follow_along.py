@@ -15,7 +15,15 @@ with tempfile.TemporaryDirectory(prefix='papaeats-starter-') as temporary:
     tutorial = (ROOT / 'README.md').read_text()
     tutorial = tutorial.replace('](docs/images/', '](https://raw.githubusercontent.com/sonnysangha/databricks-tutorial-demo/main/docs/images/')
     tutorial = tutorial.replace('](prompts/genie-code.md)', '](prompts.md)')
+    tutorial = tutorial.replace('](dist/papaeats-starter.zip)', '](https://github.com/sonnysangha/databricks-tutorial-demo/raw/refs/heads/main/dist/papaeats-starter.zip)')
     (kit / 'TUTORIAL.md').write_text(tutorial)
+    (kit / 'docs').mkdir()
+    setup = (ROOT / 'docs/SETUP.md').read_text()
+    setup = setup.replace('](../README.md#follow-the-demo)', '](../TUTORIAL.md#follow-the-demo)')
+    setup = setup.replace('](images/', '](https://raw.githubusercontent.com/sonnysangha/databricks-tutorial-demo/main/docs/images/')
+    setup = setup.replace('](../prompts/genie-code.md)', '](../prompts.md)')
+    (kit / 'docs/SETUP.md').write_text(setup)
+
     prompts = (ROOT / 'prompts/genie-code.md').read_text().replace('](../README.md)', '](TUTORIAL.md)')
     (kit / 'prompts.md').write_text(prompts)
     template = kit / 'template'
