@@ -1,0 +1,14 @@
+{
+  "workspace_host": "https://YOUR-WORKSPACE.cloud.databricks.com",
+  "profile": "papaeats-demo",
+  "workspace_user": "you@example.com",
+  "warehouse_id": "YOUR-WAREHOUSE-ID",
+  "catalog": "workspace",
+  "main_schema": "papaeats",
+  "app_schema": "papaeats_app_demo",
+  "raw_path": "/Volumes/workspace/papaeats/raw",
+  "lakebase_endpoint": "projects/YOUR-PROJECT/branches/production/endpoints/primary",
+  "pg_host": "YOUR-ENDPOINT.database.YOUR-REGION.cloud.databricks.com",
+  "pg_database": "databricks_postgres",
+  "pg_user": "you@example.com"
+}

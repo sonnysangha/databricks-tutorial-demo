@@ -1,0 +1,3762 @@
+[
+  {
+    "uid": "u_76702e7",
+    "msg": "yum",
+    "ts": "2026-06-15T12:55:21+01:00",
+    "screen": "home",
+    "device": "Pixel 8",
+    "app_version": "4.0.4"
+  },
+  {
+    "uid": "u_dc59b48",
+    "msg": "Golden Dragon through this app for teh match. 38 minutes door to door. Reordering is two taps Thx",
+    "ts": "2026-06-15T15:21:30+01:00",
+    "screen": "home",
+    "device": "Pixel 7a",
+    "app_version": "4.0.3"
+  },
+  {
+    "uid": "u_ec2810c",
+    "msg": "got half my order. support gave me a £2 credit. insulting. third time this month cheers.",
+    "ts": "2026-06-15T19:26:50+01:00",
+    "screen": "order_details",
+    "device": "Pixel 8",
+    "app_version": "4.0.4"
+  },
+  {
+    "uid": "u_4bbea0d",
+    "msg": "Ugh. any chance of a shared cart? We order for the whole office every Friday",
+    "ts": "2026-06-16T12:53:24+01:00",
+    "screen": "cart",
+    "device": "Pixel 7a",
+    "app_version": "4.0.3"
+  },
+  {
+    "uid": "u_5fefee3",
+    "msg": "Right. ordered greek for the whole family for movie night. Would recommend.",
+    "ts": "2026-06-16T15:34:42+01:00",
+    "screen": "home",
+    "device": "Pixel 8 Pro",
+    "app_version": "4.0.4"
+  },
+  {
+    "uid": "u_681fdb3",
+    "msg": "Can I change my order after placing it?",
+    "ts": "2026-06-16T20:14:05+01:00",
+    "screen": "home",
+    "device": "iPhone SE (2022)",
+    "app_version": "4.0.4"
+  },
+  {
+    "uid": "u_681fdb3",
+    "msg": "Can I change my order after placing it?",
+    "ts": "2026-06-16T20:14:05+01:00",
+    "screen": "home",
+    "device": "iPhone SE (2022)",
+    "app_version": "4.0.4"
+  },
+  {
+    "uid": "u_31b0339",
+    "msg": "Do you have a loyalty scheme? Sort it please...",
+    "ts": "2026-06-16T20:57:33+01:00",
+    "screen": "home",
+    "device": "OnePlus 12",
+    "app_version": "4.0.4"
+  },
+  {
+    "uid": "u_a6a423f",
+    "msg": "Where do I find my receipts?",
+    "ts": "2026-06-17T07:30:18+01:00",
+    "screen": "home",
+    "device": "iPhone 14",
+    "app_version": "4.0.4"
+  },
+  {
+    "uid": "u_0212cdc",
+    "msg": "How do I turn off marketing emails?",
+    "ts": "2026-06-17T10:42:14+01:00",
+    "screen": "home",
+    "device": "Galaxy S23",
+    "app_version": "4.0.4"
+  },
+  {
+    "uid": "u_c309639",
+    "msg": "ordered indian from souvlaki bros yesterday and it arrived in 31 minutes. great selection round here.",
+    "ts": "2026-06-17T18:10:19+01:00",
+    "screen": "home",
+    "device": "OnePlus 12",
+    "app_version": "4.0.4"
+  },
+  {
+    "uid": "u_a398780",
+    "msg": "Friday night vegan bowls sorted in about 28 minutes. Exactly what a delivery app should be 😩",
+    "ts": "2026-06-17T18:11:56+01:00",
+    "screen": "home",
+    "device": "iPhone 15",
+    "app_version": "4.0.3"
+  },
+  {
+    "uid": "u_a398780",
+    "msg": "Friday night vegan bowls sorted in about 28 minutes. Exactly what a delivery app should be 😩",
+    "ts": "2026-06-17T18:11:56+01:00",
+    "screen": "home",
+    "device": "iPhone 15",
+    "app_version": "4.0.3"
+  },
+  {
+    "uid": "u_681fdb3",
+    "msg": "Waited 66 minutes then got a 'restaurant is busy' cancellation. Disappointed",
+    "ts": "2026-06-17T22:08:03+01:00",
+    "screen": "order_details",
+    "device": "iPhone 15 Pro",
+    "app_version": "4.0.4"
+  },
+  {
+    "uid": "u_f1784ab",
+    "msg": "How do I change my default address? Sort it please.",
+    "ts": "2026-06-18T11:55:49+01:00",
+    "screen": "home",
+    "device": "iPhone SE (2022)",
+    "app_version": "4.0.4"
+  },
+  {
+    "uid": "u_acd20c3",
+    "msg": "The reorder button is genius.",
+    "ts": "2026-06-18T13:01:06+01:00",
+    "screen": "home",
+    "device": "Xiaomi 14",
+    "app_version": "4.0.3"
+  },
+  {
+    "uid": "u_1d8909d",
+    "msg": "Group ordering please! Five of us, one delivery, separate payments Sort it please.",
+    "ts": "2026-06-18T15:02:46+01:00",
+    "screen": "cart",
+    "device": "iPhone 16",
+    "app_version": "4.0.4"
+  },
+  {
+    "uid": "u_5579a90",
+    "msg": "Fine for what it is Thanks.",
+    "ts": "2026-06-18T20:05:59+01:00",
+    "screen": "home",
+    "device": "Galaxy S23",
+    "app_version": "4.0.4"
+  },
+  {
+    "uid": "u_777b739",
+    "msg": "Ordered indian for the whole family last night. The scheduled delivery thing is genius for the office.",
+    "ts": "2026-06-19T00:17:31+01:00",
+    "screen": "home",
+    "device": "Galaxy S24",
+    "app_version": "4.0.3"
+  },
+  {
+    "uid": "u_e80fb89",
+    "msg": ".",
+    "ts": "2026-06-19T02:26:14+01:00",
+    "screen": "home",
+    "device": "Galaxy A54",
+    "app_version": "4.0.3"
+  },
+  {
+    "uid": "u_3c6bcf5",
+    "msg": "The reorder button is genius.",
+    "ts": "2026-06-19T12:52:06+01:00",
+    "screen": "home",
+    "device": "Xiaomi 14",
+    "app_version": "4.0.3"
+  },
+  {
+    "uid": "u_08fdd40",
+    "msg": "Missing items, again. Paid for 3, got 2. Not impressed Anyone else?",
+    "ts": "2026-06-19T13:10:53+01:00",
+    "screen": "order_details",
+    "device": "iPhone 15",
+    "app_version": "4.0.3"
+  },
+  {
+    "uid": "u_f38049a",
+    "msg": "Fast delivery and teh app never crashes. Keep it up.",
+    "ts": "2026-06-19T13:40:55+01:00",
+    "screen": "home",
+    "device": "iPhone 16",
+    "app_version": "4.0.4"
+  },
+  {
+    "uid": "u_c07a9b2",
+    "msg": "Is there a way to schedule an order for tomorrow?",
+    "ts": "2026-06-19T19:24:13+01:00",
+    "screen": "home",
+    "device": "Xiaomi 14",
+    "app_version": "4.0.4"
+  },
+  {
+    "uid": "u_ab69c13",
+    "msg": "how do i turn off marketing emails?",
+    "ts": "2026-06-20T19:13:22+01:00",
+    "screen": "home",
+    "device": "Galaxy S24",
+    "app_version": "4.0.3"
+  },
+  {
+    "uid": "u_87ab6bb",
+    "msg": "fast delivery and the app never crashes... keep it up anyone else?",
+    "ts": "2026-06-20T20:00:27+01:00",
+    "screen": "home",
+    "device": "iPhone 13",
+    "app_version": "4.0.3"
+  },
+  {
+    "uid": "u_2d799fe",
+    "msg": "The reorder button is genius.",
+    "ts": "2026-06-21T00:50:37+01:00",
+    "screen": "home",
+    "device": "Pixel 8",
+    "app_version": "4.0.4"
+  },
+  {
+    "uid": "u_f7a9120",
+    "msg": "Do you deliver to Manchester yet?",
+    "ts": "2026-06-21T01:07:05+01:00",
+    "screen": "home",
+    "device": "Galaxy S23",
+    "app_version": "4.0.4"
+  },
+  {
+    "uid": "u_7f0859b",
+    "msg": "Quick one: driver was rude and basically threw the bag at the door. Not impressed 😤",
+    "ts": "2026-06-21T05:39:48+01:00",
+    "screen": "order_details",
+    "device": "iPhone 14 Pro",
+    "app_version": "4.0.4"
+  },
+  {
+    "uid": "u_147eb6f",
+    "msg": "The favourites feature is handy. Great app.",
+    "ts": "2026-06-21T09:45:00+01:00",
+    "screen": "home",
+    "device": "Pixel 8",
+    "app_version": "4.0.4"
+  },
+  {
+    "uid": "u_2e73acd",
+    "msg": "Not sure if anyone reads these but so many restaurants near me that I didn't know existed Thx",
+    "ts": "2026-06-22T21:15:28+01:00",
+    "screen": "home",
+    "device": "Galaxy A54",
+    "app_version": "4.0.4"
+  },
+  {
+    "uid": "u_6e62488",
+    "msg": "Ordered poke for the whole family last night. Food was hot. Perfect.",
+    "ts": "2026-06-22T21:51:24+01:00",
+    "screen": "home",
+    "device": "OnePlus 12",
+    "app_version": "4.0.4"
+  },
+  {
+    "uid": "u_460ac7a",
+    "msg": "Not sure if anyone reads these but Been using PapaEats for 11 months now. Cheaper than the others too.",
+    "ts": "2026-06-23T00:54:51+01:00",
+    "screen": "home",
+    "device": "OnePlus 12",
+    "app_version": "4.0.4"
+  },
+  {
+    "uid": "u_1a5527c",
+    "msg": "Right. quick chinese yesterday, arrived early. Never lets me down.",
+    "ts": "2026-06-23T02:04:01+01:00",
+    "screen": "home",
+    "device": "iPhone 13",
+    "app_version": "4.0.4"
+  },
+  {
+    "uid": "u_6e492a2",
+    "msg": "Ordered chinese for the whole family on Sunday. Would recommend.",
+    "ts": "2026-06-23T07:50:36+01:00",
+    "screen": "home",
+    "device": "Galaxy S23",
+    "app_version": "4.0.4"
+  },
+  {
+    "uid": "u_192b1b5",
+    "msg": "Meh. It works.",
+    "ts": "2026-06-24T06:39:06+01:00",
+    "screen": "home",
+    "device": "iPhone SE (2022)",
+    "app_version": "4.0.4"
+  },
+  {
+    "uid": "u_ee4d237",
+    "msg": "Fast delivery and the app never crashes. Keep it up.",
+    "ts": "2026-06-24T09:19:26+01:00",
+    "screen": "home",
+    "device": "Galaxy A54",
+    "app_version": "4.0.3"
+  },
+  {
+    "uid": "u_e05b28e",
+    "msg": "Food was cold and the drink was missing. Third time this month.",
+    "ts": "2026-06-24T11:59:24+01:00",
+    "screen": "order_details",
+    "device": "Xiaomi 14",
+    "app_version": "4.0.4"
+  },
+  {
+    "uid": "u_458e637",
+    "msg": "Ordered fried chicken from Pho 24 after work and it arrived in 31 minutes. Brilliant Thanks.",
+    "ts": "2026-06-24T19:33:35+01:00",
+    "screen": "home",
+    "device": "iPhone 13",
+    "app_version": "4.0.4"
+  },
+  {
+    "uid": "u_3ec2bc2",
+    "msg": "🔥🔥🔥",
+    "ts": "2026-06-24T19:57:49+01:00",
+    "screen": "home",
+    "device": "Galaxy S24",
+    "app_version": "4.0.3"
+  },
+  {
+    "uid": "u_286e40a",
+    "msg": "Top tier app",
+    "ts": "2026-06-24T20:58:01+01:00",
+    "screen": "home",
+    "device": "Galaxy A54",
+    "app_version": "4.0.3"
+  },
+  {
+    "uid": "u_1a5b287",
+    "msg": "10/10 would recommend 😤",
+    "ts": "2026-06-25T01:54:03+01:00",
+    "screen": "home",
+    "device": "iPhone 14",
+    "app_version": "4.0.4"
+  },
+  {
+    "uid": "u_65eb401",
+    "msg": "Friday night vegan bowls sorted in about 19 minutes. Cheaper than the others too.",
+    "ts": "2026-06-25T04:22:19+01:00",
+    "screen": "home",
+    "device": "iPhone 15 Pro",
+    "app_version": "4.0.4"
+  },
+  {
+    "uid": "u_95593e5",
+    "msg": "23 orders in and not a single problem. Reordering is two taps 😤",
+    "ts": "2026-06-25T04:34:37+01:00",
+    "screen": "home",
+    "device": "Galaxy S24",
+    "app_version": "4.0.4"
+  },
+  {
+    "uid": "u_bf57f58",
+    "msg": "Driver marked it delivered. It was not delivered. Won't be ordering again Sort it please.",
+    "ts": "2026-06-26T01:03:45+01:00",
+    "screen": "order_details",
+    "device": "OnePlus 12",
+    "app_version": "4.0.4"
+  },
+  {
+    "uid": "u_8518e24",
+    "msg": "Been using PapaEats for 9 months now. Love it.",
+    "ts": "2026-06-26T03:30:04+01:00",
+    "screen": "home",
+    "device": "Pixel 8",
+    "app_version": "4.0.4"
+  },
+  {
+    "uid": "u_7b0d634",
+    "msg": "Hey team, ordered thai from Nonna's last night and it arrived in 19 minutes. Reordering is two taps.",
+    "ts": "2026-06-26T04:52:49+01:00",
+    "screen": "home",
+    "device": "Galaxy S23",
+    "app_version": "4.0.3"
+  },
+  {
+    "uid": "u_f2f48af",
+    "msg": "Food was cold and the drink was missing. Disappointed.",
+    "ts": "2026-06-26T14:38:29+01:00",
+    "screen": "order_details",
+    "device": "iPhone 15",
+    "app_version": "4.0.4"
+  },
+  {
+    "uid": "u_f1f7007",
+    "msg": "Ordered pasta for the whole family last night. Best delivery app I've used.",
+    "ts": "2026-06-26T15:48:36+01:00",
+    "screen": "home",
+    "device": "Pixel 8",
+    "app_version": "4.0.4"
+  },
+  {
+    "uid": "u_0a32725",
+    "msg": "The reorder button is genius Thx",
+    "ts": "2026-06-27T02:58:03+01:00",
+    "screen": "home",
+    "device": "iPhone SE (2022)",
+    "app_version": "4.0.3"
+  },
+  {
+    "uid": "u_6edae5d",
+    "msg": "Late, cold, and missing the sauce. Great. Do better 😩",
+    "ts": "2026-06-27T09:58:32+01:00",
+    "screen": "order_details",
+    "device": "OnePlus 12",
+    "app_version": "4.0.4"
+  },
+  {
+    "uid": "u_6edae5d",
+    "msg": "Late, cold, and missing the sauce. Great. Do better 😩",
+    "ts": "2026-06-27T09:58:32+01:00",
+    "screen": "order_details",
+    "device": "OnePlus 12",
+    "app_version": "4.0.4"
+  },
+  {
+    "uid": "u_865ceb7",
+    "msg": "Not bad. Wish there were more restaurants in my area.",
+    "ts": "2026-06-27T14:53:40+01:00",
+    "screen": "home",
+    "device": "Pixel 8 Pro",
+    "app_version": "4.0.4"
+  },
+  {
+    "uid": "u_16972d6",
+    "msg": "search results irrelevant",
+    "ts": "2026-06-27T18:38:21+01:00",
+    "screen": "search",
+    "device": "Xiaomi 14",
+    "app_version": "4.0.4"
+  },
+  {
+    "uid": "u_1291225",
+    "msg": "Found Burger Barn on here and it's now our regular. Zero complaints Thx",
+    "ts": "2026-06-27T22:03:12+01:00",
+    "screen": "home",
+    "device": "Galaxy S23",
+    "app_version": "4.0.3"
+  },
+  {
+    "uid": "u_a100159",
+    "msg": "The scheduled delivery feature is brilliant for office lunches.",
+    "ts": "2026-06-28T07:45:01+01:00",
+    "screen": "home",
+    "device": "Pixel 8 Pro",
+    "app_version": "4.0.3"
+  },
+  {
+    "uid": "u_62069a0",
+    "msg": "How do I delete my account?",
+    "ts": "2026-06-28T07:47:15+01:00",
+    "screen": "home",
+    "device": "iPhone 13",
+    "app_version": "4.0.3"
+  },
+  {
+    "uid": "u_08fdd40",
+    "msg": "Big fan. Please add more restaurants in Leeds though.",
+    "ts": "2026-06-28T08:26:27+01:00",
+    "screen": "home",
+    "device": "Galaxy S23",
+    "app_version": "4.0.3"
+  },
+  {
+    "uid": "u_098a3ba",
+    "msg": "Food was cold and teh drink was missing. Refund please.",
+    "ts": "2026-06-28T21:40:08+01:00",
+    "screen": "order_details",
+    "device": "iPhone 14",
+    "app_version": "4.0.3"
+  },
+  {
+    "uid": "u_7b9e8d3",
+    "msg": "Fantastic service, the driver was lovely and the food was perfect Please look into it.",
+    "ts": "2026-06-28T22:13:51+01:00",
+    "screen": "home",
+    "device": "iPhone 15",
+    "app_version": "4.0.3"
+  },
+  {
+    "uid": "u_86de4d8",
+    "msg": "Friday night tacos sorted in about 37 minutes. Five stars Thx",
+    "ts": "2026-06-28T23:16:18+01:00",
+    "screen": "home",
+    "device": "Pixel 8",
+    "app_version": "4.0.4"
+  },
+  {
+    "uid": "u_7a0ac39",
+    "msg": "35 orders in and not a single problem. Keep it up.",
+    "ts": "2026-06-29T11:14:45+01:00",
+    "screen": "home",
+    "device": "Xiaomi 14",
+    "app_version": "4.0.3"
+  },
+  {
+    "uid": "u_5510ea3",
+    "msg": "Bao House through this app at lunch. 29 minutes door to door. Best delivery app I've used.",
+    "ts": "2026-06-29T14:18:59+01:00",
+    "screen": "home",
+    "device": "iPhone 15",
+    "app_version": "4.0.3"
+  },
+  {
+    "uid": "u_5df76b7",
+    "msg": "Found Nonna's on here and it's now our regular. Love it.",
+    "ts": "2026-06-29T16:38:22+01:00",
+    "screen": "home",
+    "device": "iPhone 13",
+    "app_version": "4.0.3"
+  },
+  {
+    "uid": "u_6a2fbc3",
+    "msg": "Is there a family account option?",
+    "ts": "2026-06-29T19:14:02+01:00",
+    "screen": "home",
+    "device": "Galaxy S23",
+    "app_version": "4.0.4"
+  },
+  {
+    "uid": "u_3b76acc",
+    "msg": "Delivery took over an hour and the wings was freezing. Come on 😤",
+    "ts": "2026-06-30T03:00:51+01:00",
+    "screen": "order_details",
+    "device": "iPhone SE (2022)",
+    "app_version": "4.0.3"
+  },
+  {
+    "uid": "u_90f9f91",
+    "msg": "Missing items, again. Paid for 3, got 2. Sort it out.",
+    "ts": "2026-06-30T12:39:08+01:00",
+    "screen": "order_details",
+    "device": "iPhone 15 Pro",
+    "app_version": "4.0.4"
+  },
+  {
+    "uid": "u_5ab1033",
+    "msg": "missing items, again. Paid for 3, got 2. Won't be ordering again.",
+    "ts": "2026-06-30T13:24:28+01:00",
+    "screen": "order_details",
+    "device": "iPhone 16",
+    "app_version": "4.0.4"
+  },
+  {
+    "uid": "u_24118e6",
+    "msg": "It's fine. Does teh job Love the app otherwise.",
+    "ts": "2026-06-30T19:46:08+01:00",
+    "screen": "home",
+    "device": "iPhone 14 Pro",
+    "app_version": "4.0.4"
+  },
+  {
+    "uid": "u_b0b83c5",
+    "msg": "FYI free delivery promo not applied. Contacted support twice Love the app otherwise.",
+    "ts": "2026-06-30T21:16:47+01:00",
+    "screen": "checkout",
+    "device": "Pixel 7a",
+    "app_version": "4.0.3"
+  },
+  {
+    "uid": "u_66c60b5",
+    "msg": "food was cold and the drink was missing. third time this month.",
+    "ts": "2026-06-30T21:38:51+01:00",
+    "screen": "order_details",
+    "device": "iPhone 13",
+    "app_version": "4.0.3"
+  },
+  {
+    "uid": "u_b24b0c2",
+    "msg": "can i add a second card?",
+    "ts": "2026-07-01T01:15:39+01:00",
+    "screen": "home",
+    "device": "Galaxy S24",
+    "app_version": "4.0.3"
+  },
+  {
+    "uid": "u_a6aa1fa",
+    "msg": "Ordered tacos from Wing Kings at lunch and it arrived in 32 minutes. Simple, fast, reliable.",
+    "ts": "2026-07-01T03:23:39+01:00",
+    "screen": "home",
+    "device": "iPhone 14 Pro",
+    "app_version": "4.0.3"
+  },
+  {
+    "uid": "u_4ad9540",
+    "msg": "Food was cold and the drink was missing. Come on.",
+    "ts": "2026-07-01T05:40:11+01:00",
+    "screen": "order_details",
+    "device": "Pixel 8 Pro",
+    "app_version": "4.0.3"
+  },
+  {
+    "uid": "u_687b54c",
+    "msg": "Can I tip after delivery?",
+    "ts": "2026-07-01T05:42:26+01:00",
+    "screen": "home",
+    "device": "iPhone SE (2022)",
+    "app_version": "4.0.4"
+  },
+  {
+    "uid": "u_9c8d448",
+    "msg": "Late, cold, and missing the sauce. Great !!",
+    "ts": "2026-07-01T08:11:00+01:00",
+    "screen": "order_details",
+    "device": "Pixel 7a",
+    "app_version": "4.0.4"
+  },
+  {
+    "uid": "u_9c8d448",
+    "msg": "Late, cold, and missing the sauce. Great !!",
+    "ts": "2026-07-01T08:11:00+01:00",
+    "screen": "order_details",
+    "device": "Pixel 7a",
+    "app_version": "4.0.4"
+  },
+  {
+    "uid": "u_83133fe",
+    "msg": "great app 👍",
+    "ts": "2026-07-01T16:19:58+01:00",
+    "screen": "home",
+    "device": "Galaxy A54",
+    "app_version": "4.0.4"
+  },
+  {
+    "uid": "u_12fa494",
+    "msg": "great app 👍",
+    "ts": "2026-07-01T18:45:06+01:00",
+    "screen": "home",
+    "device": "iPhone 15",
+    "app_version": "4.0.3"
+  },
+  {
+    "uid": "u_12fa494",
+    "msg": "great app 👍",
+    "ts": "2026-07-01T18:45:06+01:00",
+    "screen": "home",
+    "device": "iPhone 15",
+    "app_version": "4.0.3"
+  },
+  {
+    "uid": "u_c8208f0",
+    "msg": "23 orders in and not a single problem. Big fan !!",
+    "ts": "2026-07-02T00:43:01+01:00",
+    "screen": "home",
+    "device": "iPhone 14 Pro",
+    "app_version": "4.0.3"
+  },
+  {
+    "uid": "u_20cd809",
+    "msg": "FYI ordered pasta for the whole family yesterday. Cheaper than the others too",
+    "ts": "2026-07-02T03:18:57+01:00",
+    "screen": "home",
+    "device": "iPhone 16",
+    "app_version": "4.0.3"
+  },
+  {
+    "uid": "u_bfe868b",
+    "msg": "Ugh. Better than the big apps for my area. Way more choice.",
+    "ts": "2026-07-02T03:50:56+01:00",
+    "screen": "home",
+    "device": "iPhone SE (2022)",
+    "app_version": "4.0.4"
+  },
+  {
+    "uid": "u_573cbf0",
+    "msg": "Okay app, delivery fees are a bit high Sort it please.",
+    "ts": "2026-07-02T12:41:10+01:00",
+    "screen": "home",
+    "device": "Galaxy A54",
+    "app_version": "4.0.4"
+  },
+  {
+    "uid": "u_4ad9540",
+    "msg": "Quick one: taco Loco through this app yesterday. 36 minutes door to door. Love it Anyone else?",
+    "ts": "2026-07-02T21:04:02+01:00",
+    "screen": "home",
+    "device": "Pixel 8",
+    "app_version": "4.0.3"
+  },
+  {
+    "uid": "u_0398251",
+    "msg": "Friday night chinese sorted in about 37 minutes. Big fan",
+    "ts": "2026-07-02T22:18:55+01:00",
+    "screen": "home",
+    "device": "Galaxy S24",
+    "app_version": "4.0.4"
+  },
+  {
+    "uid": "u_81465dd",
+    "msg": "It's fine. Does the job Please look into it.",
+    "ts": "2026-07-03T04:46:47+01:00",
+    "screen": "home",
+    "device": "Pixel 8",
+    "app_version": "4.0.3"
+  },
+  {
+    "uid": "u_81465dd",
+    "msg": "It's fine. Does the job Please look into it.",
+    "ts": "2026-07-03T04:46:47+01:00",
+    "screen": "home",
+    "device": "Pixel 8",
+    "app_version": "4.0.3"
+  },
+  {
+    "uid": "u_11e5b0c",
+    "msg": "Anyone know if Nonna's does gluten free?",
+    "ts": "2026-07-03T08:21:57+01:00",
+    "screen": "home",
+    "device": "OnePlus 12",
+    "app_version": "4.0.4"
+  },
+  {
+    "uid": "u_9b07aac",
+    "msg": "Found Green Bowl on here and it's now our regular. Food was hot. Perfect.",
+    "ts": "2026-07-03T09:36:55+01:00",
+    "screen": "home",
+    "device": "Galaxy S23",
+    "app_version": "4.0.4"
+  },
+  {
+    "uid": "u_f49c5e6",
+    "msg": "Right. 38 orders in and not a single problem. The tracking is spot on Anyone else?",
+    "ts": "2026-07-03T09:45:26+01:00",
+    "screen": "home",
+    "device": "iPhone 16",
+    "app_version": "4.0.4"
+  },
+  {
+    "uid": "u_f49c5e6",
+    "msg": "Right. 38 orders in and not a single problem. The tracking is spot on Anyone else?",
+    "ts": "2026-07-03T09:45:26+01:00",
+    "screen": "home",
+    "device": "iPhone 16",
+    "app_version": "4.0.4"
+  },
+  {
+    "uid": "u_21ba003",
+    "msg": "29 orders in and not a single problem. Big fan.",
+    "ts": "2026-07-03T14:00:11+01:00",
+    "screen": "home",
+    "device": "OnePlus 12",
+    "app_version": "4.0.3"
+  },
+  {
+    "uid": "u_55a72d1",
+    "msg": "Quick pasta yesterday, arrived early. Exactly what a delivery app should be Love the app otherwise.",
+    "ts": "2026-07-03T18:25:57+01:00",
+    "screen": "home",
+    "device": "Pixel 8 Pro",
+    "app_version": "4.0.3"
+  },
+  {
+    "uid": "u_9cf91c3",
+    "msg": "ETA said 25 mins... Took 90. Not impressed Thanks.",
+    "ts": "2026-07-03T18:58:37+01:00",
+    "screen": "order_details",
+    "device": "iPhone 14 Pro",
+    "app_version": "4.0.4"
+  },
+  {
+    "uid": "u_ace2799",
+    "msg": "Food arrived cold. 76 minutes for a 20 minute delivery. Come on.",
+    "ts": "2026-07-03T19:39:40+01:00",
+    "screen": "order_details",
+    "device": "OnePlus 12",
+    "app_version": "4.0.4"
+  },
+  {
+    "uid": "u_2f713f6",
+    "msg": "Okay app, delivery fees are a bit high.",
+    "ts": "2026-07-04T04:21:27+01:00",
+    "screen": "home",
+    "device": "Pixel 7a",
+    "app_version": "4.0.4"
+  },
+  {
+    "uid": "u_5776765",
+    "msg": "driver left the food at the wrong building. come on !!",
+    "ts": "2026-07-04T06:10:51+01:00",
+    "screen": "order_details",
+    "device": "iPhone 14 Pro",
+    "app_version": "4.0.4"
+  },
+  {
+    "uid": "u_5d7c7ca",
+    "msg": "Delivery drivers are always friendly. Great app !!",
+    "ts": "2026-07-04T07:02:32+01:00",
+    "screen": "home",
+    "device": "Galaxy S23",
+    "app_version": "4.0.4"
+  },
+  {
+    "uid": "u_d8d5ab5",
+    "msg": "Been using PapaEats for 3 months now. Brilliant Thx",
+    "ts": "2026-07-04T12:57:59+01:00",
+    "screen": "home",
+    "device": "Galaxy S24",
+    "app_version": "4.0.4"
+  },
+  {
+    "uid": "u_f3e7b83",
+    "msg": "Absolutely brilliant. Ordered at 7, ate at 7:25.",
+    "ts": "2026-07-04T13:21:50+01:00",
+    "screen": "home",
+    "device": "iPhone 15",
+    "app_version": "4.0.3"
+  },
+  {
+    "uid": "u_e0d6ad8",
+    "msg": "hey team, solid app. does what it says anyone else?",
+    "ts": "2026-07-05T05:52:01+01:00",
+    "screen": "home",
+    "device": "iPhone 16",
+    "app_version": "4.0.4"
+  },
+  {
+    "uid": "u_687b54c",
+    "msg": "Amazing. Thank you Thanks.",
+    "ts": "2026-07-05T08:23:04+01:00",
+    "screen": "home",
+    "device": "iPhone 16",
+    "app_version": "4.0.4"
+  },
+  {
+    "uid": "u_8bb53f3",
+    "msg": "Quick one: Friday night vegan bowls sorted in about 26 minutes. Five stars Love the app otherwise.",
+    "ts": "2026-07-05T09:26:18+01:00",
+    "screen": "home",
+    "device": "iPhone 15",
+    "app_version": "4.0.3"
+  },
+  {
+    "uid": "u_f52d487",
+    "msg": "not bad. Wish there were more restaurants in my area !!",
+    "ts": "2026-07-05T12:42:57+01:00",
+    "screen": "home",
+    "device": "iPhone SE (2022)",
+    "app_version": "4.0.4"
+  },
+  {
+    "uid": "u_04af720",
+    "msg": "ordered pho for the whole family after work. Driver was lovely Sort it please.",
+    "ts": "2026-07-05T14:57:19+01:00",
+    "screen": "home",
+    "device": "iPhone 15",
+    "app_version": "4.0.4"
+  },
+  {
+    "uid": "u_b29c6be",
+    "msg": "Been using PapaEats for a year, never lets me down.",
+    "ts": "2026-07-05T16:56:58+01:00",
+    "screen": "home",
+    "device": "Galaxy A54",
+    "app_version": "4.0.3"
+  },
+  {
+    "uid": "u_dd31ab2",
+    "msg": "is there a way to schedule an order for tomorrow?",
+    "ts": "2026-07-05T21:24:36+01:00",
+    "screen": "home",
+    "device": "iPhone 16",
+    "app_version": "4.0.4"
+  },
+  {
+    "uid": "u_dd31ab2",
+    "msg": "is there a way to schedule an order for tomorrow?",
+    "ts": "2026-07-05T21:24:36+01:00",
+    "screen": "home",
+    "device": "iPhone 16",
+    "app_version": "4.0.4"
+  },
+  {
+    "uid": "u_1c8edf9",
+    "msg": "Ordered indian from Bao House on Sunday and it arrived in 27 minutes. The scheduled delivery thing is genius for teh office.",
+    "ts": "2026-07-06T01:18:55+01:00",
+    "screen": "home",
+    "device": "iPhone 14 Pro",
+    "app_version": "4.0.3"
+  },
+  {
+    "uid": "u_0e5c5d7",
+    "msg": "Ordered chinese from The Pie Shop yesterday and it arrived in 28 minutes. Five stars",
+    "ts": "2026-07-07T03:09:54+01:00",
+    "screen": "home",
+    "device": "iPhone 14",
+    "app_version": "4.0.3"
+  },
+  {
+    "uid": "u_770ffc6",
+    "msg": "great app 👍",
+    "ts": "2026-07-07T20:15:01+01:00",
+    "screen": "home",
+    "device": "iPhone 16",
+    "app_version": "4.0.3"
+  },
+  {
+    "uid": "u_9e61533",
+    "msg": "Friday night fried chicken sorted in about 36 minutes. Zero complaints.",
+    "ts": "2026-07-07T23:12:26+01:00",
+    "screen": "home",
+    "device": "iPhone 16",
+    "app_version": "4.0.4"
+  },
+  {
+    "uid": "u_547558b",
+    "msg": "Group ordering please! Five of us, one delivery, separate payments.",
+    "ts": "2026-07-08T07:00:56+01:00",
+    "screen": "cart",
+    "device": "Galaxy S23",
+    "app_version": "4.0.3"
+  },
+  {
+    "uid": "u_464af1e",
+    "msg": "Is there a way to schedule an order for tomorrow?",
+    "ts": "2026-07-08T13:36:26+01:00",
+    "screen": "home",
+    "device": "Galaxy A54",
+    "app_version": "4.0.4"
+  },
+  {
+    "uid": "u_9ad0c4e",
+    "msg": "Friday night pho sorted in about 36 minutes... Never lets me down.",
+    "ts": "2026-07-09T06:23:37+01:00",
+    "screen": "home",
+    "device": "Pixel 8 Pro",
+    "app_version": "4.0.4"
+  },
+  {
+    "uid": "u_5c43f95",
+    "msg": "Is there a family account option?",
+    "ts": "2026-07-09T15:05:00+01:00",
+    "screen": "home",
+    "device": "iPhone 15",
+    "app_version": "4.0.3"
+  },
+  {
+    "uid": "u_96c72c6",
+    "msg": "Quick one: clean design, easy to use, food always on time.",
+    "ts": "2026-07-09T18:49:45+01:00",
+    "screen": "home",
+    "device": "Galaxy A54",
+    "app_version": "4.0.4"
+  },
+  {
+    "uid": "u_6e5993e",
+    "msg": "honestly, works well most of the time",
+    "ts": "2026-07-09T21:38:40+01:00",
+    "screen": "home",
+    "device": "Galaxy S24",
+    "app_version": "4.0.3"
+  },
+  {
+    "uid": "u_12a1cc9",
+    "msg": "Souvlaki Bros through this app on Friday. 32 minutes door to door. Simple, fast, reliable.",
+    "ts": "2026-07-10T06:00:04+01:00",
+    "screen": "home",
+    "device": "iPhone 14 Pro",
+    "app_version": "4.0.3"
+  },
+  {
+    "uid": "u_5510ea3",
+    "msg": "20 orders in and not a single problem. Big fan.",
+    "ts": "2026-07-10T06:49:08+01:00",
+    "screen": "home",
+    "device": "OnePlus 12",
+    "app_version": "4.0.4"
+  },
+  {
+    "uid": "u_0a9d998",
+    "msg": "Driver marked it delivered. It was not delivered. Sort it out.",
+    "ts": "2026-07-10T10:24:41+01:00",
+    "screen": "order_details",
+    "device": "iPhone 13",
+    "app_version": "4.0.3"
+  },
+  {
+    "uid": "u_db9f201",
+    "msg": "Friday night kebab sorted in about 34 minutes. Keep it up.",
+    "ts": "2026-07-10T18:07:33+01:00",
+    "screen": "home",
+    "device": "iPhone 15 Pro",
+    "app_version": "4.0.4"
+  },
+  {
+    "uid": "u_129c29f",
+    "msg": "Just so you know, Okay app, delivery fees are a bit high.",
+    "ts": "2026-07-11T07:48:07+01:00",
+    "screen": "home",
+    "device": "iPhone 14",
+    "app_version": "4.0.3"
+  },
+  {
+    "uid": "u_87124e4",
+    "msg": "CHEAP IPHONE 15 DM ME",
+    "ts": "2026-07-11T09:37:06+01:00",
+    "screen": "home",
+    "device": "Galaxy S24",
+    "app_version": "4.0.3"
+  },
+  {
+    "uid": "u_b84bf22",
+    "msg": "Food was cold and the drink was missing. Sort it out.",
+    "ts": "2026-07-11T09:59:33+01:00",
+    "screen": "order_details",
+    "device": "iPhone SE (2022)",
+    "app_version": "4.0.3"
+  },
+  {
+    "uid": "u_3afa209",
+    "msg": "Okay app, delivery fees are a bit high",
+    "ts": "2026-07-11T11:04:58+01:00",
+    "screen": "home",
+    "device": "Galaxy A54",
+    "app_version": "4.0.3"
+  },
+  {
+    "uid": "u_5ab1033",
+    "msg": "Best food delivery app I've used. Fast, easy, and the tracking is great",
+    "ts": "2026-07-12T05:39:43+01:00",
+    "screen": "home",
+    "device": "iPhone 14",
+    "app_version": "4.0.4"
+  },
+  {
+    "uid": "u_cb6b385",
+    "msg": "Not sure if anyone reads these but Food was cold and the drink was missing. Disappointed.",
+    "ts": "2026-07-12T12:15:51+01:00",
+    "screen": "order_details",
+    "device": "Pixel 7a",
+    "app_version": "4.0.4"
+  },
+  {
+    "uid": "u_fdf707f",
+    "msg": "The Pie Shop through this app yesterday. 33 minutes door to door. Cheaper than the others too.",
+    "ts": "2026-07-12T13:13:05+01:00",
+    "screen": "home",
+    "device": "iPhone 16",
+    "app_version": "4.0.4"
+  },
+  {
+    "uid": "u_da28b8d",
+    "msg": "FYI 29 orders in and not a single problem. 10/10.",
+    "ts": "2026-07-13T00:27:05+01:00",
+    "screen": "home",
+    "device": "Pixel 8",
+    "app_version": "4.0.4"
+  },
+  {
+    "uid": "u_fc7c01e",
+    "msg": "Can I order for pickup instead of delivery? Please look into it.",
+    "ts": "2026-07-13T08:17:53+01:00",
+    "screen": "home",
+    "device": "iPhone SE (2022)",
+    "app_version": "4.0.3"
+  },
+  {
+    "uid": "u_902c0e7",
+    "msg": "Promo codes never seem to actually reduce the total for me",
+    "ts": "2026-07-13T11:41:45+01:00",
+    "screen": "checkout",
+    "device": "Xiaomi 14",
+    "app_version": "4.0.4"
+  },
+  {
+    "uid": "u_b9dd041",
+    "msg": "the little bike on the map doesn't move lol Anyone else?",
+    "ts": "2026-07-14T05:33:36+01:00",
+    "screen": "tracking",
+    "device": "iPhone SE (2022)",
+    "app_version": "4.0.4"
+  },
+  {
+    "uid": "u_c9fc348",
+    "msg": "Ordered pasta for the whole family after work. Keep it up.",
+    "ts": "2026-07-14T11:02:05+01:00",
+    "screen": "home",
+    "device": "iPhone 14 Pro",
+    "app_version": "4.0.4"
+  },
+  {
+    "uid": "u_80e7233",
+    "msg": "Friday night indian sorted in about 38 minutes. The tracking is spot on.",
+    "ts": "2026-07-14T12:43:08+01:00",
+    "screen": "home",
+    "device": "Pixel 8 Pro",
+    "app_version": "4.0.3"
+  },
+  {
+    "uid": "u_0529f62",
+    "msg": "Istanbul Grill through this app at lunch. 34 minutes door to door. 10/10.",
+    "ts": "2026-07-14T16:52:25+01:00",
+    "screen": "home",
+    "device": "iPhone 13",
+    "app_version": "4.0.3"
+  },
+  {
+    "uid": "u_88e25ca",
+    "msg": "Why is petrol so expensive lol",
+    "ts": "2026-07-15T07:05:11+01:00",
+    "screen": "home",
+    "device": "Galaxy S24",
+    "app_version": "4.0.4"
+  },
+  {
+    "uid": "u_187ae16",
+    "msg": "Delivery drivers are always friendly... Great app Anyone else?",
+    "ts": "2026-07-15T09:55:23+01:00",
+    "screen": "home",
+    "device": "Xiaomi 14",
+    "app_version": "4.0.4"
+  },
+  {
+    "uid": "u_1928201",
+    "msg": "Fries were soggy and the burger was squashed. Third time this month.",
+    "ts": "2026-07-15T15:11:56+01:00",
+    "screen": "order_details",
+    "device": "Galaxy S23",
+    "app_version": "4.0.4"
+  },
+  {
+    "uid": "u_be0e6a3",
+    "msg": "Order was 60 minutes late with no updates...",
+    "ts": "2026-07-15T16:05:18+01:00",
+    "screen": "order_details",
+    "device": "iPhone 15",
+    "app_version": "4.0.4"
+  },
+  {
+    "uid": "u_cef34bd",
+    "msg": "perfect every time",
+    "ts": "2026-07-16T06:06:56+01:00",
+    "screen": "home",
+    "device": "iPhone 15",
+    "app_version": "4.0.3"
+  },
+  {
+    "uid": "u_115ac5b",
+    "msg": "Hi, 25 orders in and not a single problem. Brilliant",
+    "ts": "2026-07-16T17:18:04+01:00",
+    "screen": "home",
+    "device": "Galaxy S23",
+    "app_version": "4.0.4"
+  },
+  {
+    "uid": "u_7d1d7a6",
+    "msg": "how to change phone number",
+    "ts": "2026-07-16T20:52:34+01:00",
+    "screen": "home",
+    "device": "Xiaomi 14",
+    "app_version": "4.0.4"
+  },
+  {
+    "uid": "u_b4ed162",
+    "msg": "Quick, reliable, great support when something goes wrong.",
+    "ts": "2026-07-16T21:48:31+01:00",
+    "screen": "home",
+    "device": "Pixel 8",
+    "app_version": "4.0.4"
+  },
+  {
+    "uid": "u_c4ccd30",
+    "msg": "Been using PapaEats for 6 months now. Best delivery app I've used.",
+    "ts": "2026-07-17T00:44:00+01:00",
+    "screen": "home",
+    "device": "iPhone 16",
+    "app_version": "4.0.4"
+  },
+  {
+    "uid": "u_33d6f5b",
+    "msg": "receipt shows 2 tips, I only left 1",
+    "ts": "2026-07-17T05:49:41+01:00",
+    "screen": "receipt",
+    "device": "iPhone 15 Pro",
+    "app_version": "4.0.3"
+  },
+  {
+    "uid": "u_db4cd7d",
+    "msg": "So, Wrong order delivered. Got someone's ramen instead of my burgers.",
+    "ts": "2026-07-17T11:03:06+01:00",
+    "screen": "order_details",
+    "device": "iPhone 14 Pro",
+    "app_version": "4.0.3"
+  },
+  {
+    "uid": "u_c79900d",
+    "msg": "Found Nonna's on here and it's now our regular. Exactly what a delivery app should be.",
+    "ts": "2026-07-17T13:34:50+01:00",
+    "screen": "home",
+    "device": "Pixel 8 Pro",
+    "app_version": "4.0.4"
+  },
+  {
+    "uid": "u_ace8e07",
+    "msg": "Ordered ramen for the whole family at lunch. Exactly what a delivery app should be.",
+    "ts": "2026-07-17T18:11:45+01:00",
+    "screen": "home",
+    "device": "iPhone 16",
+    "app_version": "4.0.4"
+  },
+  {
+    "uid": "u_b7af2df",
+    "msg": "Ordered chinese for the whole family for the match. Never lets me down.",
+    "ts": "2026-07-17T20:14:09+01:00",
+    "screen": "home",
+    "device": "OnePlus 12",
+    "app_version": "4.0.4"
+  },
+  {
+    "uid": "u_8fbea19",
+    "msg": "Hi, Missing items, again. Paid for 3, got 2. Third time this month Cheers.",
+    "ts": "2026-07-17T23:52:52+01:00",
+    "screen": "order_details",
+    "device": "iPhone 14",
+    "app_version": "4.0.3"
+  },
+  {
+    "uid": "u_8fbea19",
+    "msg": "Hi, Missing items, again. Paid for 3, got 2. Third time this month Cheers.",
+    "ts": "2026-07-17T23:52:52+01:00",
+    "screen": "order_details",
+    "device": "iPhone 14",
+    "app_version": "4.0.3"
+  },
+  {
+    "uid": "u_704e454",
+    "msg": "Really nice app. Payment is quick and I like the receipts.",
+    "ts": "2026-07-18T07:53:17+01:00",
+    "screen": "home",
+    "device": "iPhone SE (2022)",
+    "app_version": "4.0.3"
+  },
+  {
+    "uid": "u_34e48ed",
+    "msg": "My cat sat on my phone and ordered wings. Not a complaint.",
+    "ts": "2026-07-18T08:20:44+01:00",
+    "screen": "home",
+    "device": "OnePlus 12",
+    "app_version": "4.0.3"
+  },
+  {
+    "uid": "u_34e48ed",
+    "msg": "My cat sat on my phone and ordered wings. Not a complaint.",
+    "ts": "2026-07-18T08:20:44+01:00",
+    "screen": "home",
+    "device": "OnePlus 12",
+    "app_version": "4.0.3"
+  },
+  {
+    "uid": "u_efefe21",
+    "msg": "Alright. Some restaurants are overpriced on here",
+    "ts": "2026-07-18T16:24:19+01:00",
+    "screen": "home",
+    "device": "OnePlus 12",
+    "app_version": "4.0.4"
+  },
+  {
+    "uid": "u_c6b0d64",
+    "msg": "Found Istanbul Grill on here and it's now our regular. Love it.",
+    "ts": "2026-07-19T10:24:46+01:00",
+    "screen": "home",
+    "device": "Pixel 8",
+    "app_version": "4.0.4"
+  },
+  {
+    "uid": "u_10a5508",
+    "msg": "It's fine. Does the job.",
+    "ts": "2026-07-19T11:45:16+01:00",
+    "screen": "home",
+    "device": "Pixel 7a",
+    "app_version": "4.0.4"
+  },
+  {
+    "uid": "u_e360399",
+    "msg": "Quick sushi on Friday, arrived early. Zero complaints.",
+    "ts": "2026-07-19T14:26:19+01:00",
+    "screen": "home",
+    "device": "iPhone 14 Pro",
+    "app_version": "4.0.3"
+  },
+  {
+    "uid": "u_dfb6a79",
+    "msg": "Ugh. Ordered pho from Istanbul Grill on Sunday and it arrived in 36 minutes. Never lets me down.",
+    "ts": "2026-07-19T15:07:17+01:00",
+    "screen": "home",
+    "device": "iPhone 15 Pro",
+    "app_version": "4.0.4"
+  },
+  {
+    "uid": "u_20cd809",
+    "msg": "The app is so smooth. Reordering my usual takes two taps.",
+    "ts": "2026-07-19T16:51:11+01:00",
+    "screen": "home",
+    "device": "Galaxy S23",
+    "app_version": "4.0.4"
+  },
+  {
+    "uid": "u_76dad5e",
+    "msg": "FYI 10/10 would recommend.",
+    "ts": "2026-07-20T01:42:09+01:00",
+    "screen": "home",
+    "device": "Pixel 8 Pro",
+    "app_version": "4.1.2"
+  },
+  {
+    "uid": "u_6108ceb",
+    "msg": "The scheduled delivery feature is brilliant for office lunches Thx",
+    "ts": "2026-07-20T03:01:03+01:00",
+    "screen": "home",
+    "device": "Xiaomi 14",
+    "app_version": "4.1.2"
+  },
+  {
+    "uid": "u_47fa5b9",
+    "msg": "Good enough.",
+    "ts": "2026-07-20T03:55:11+01:00",
+    "screen": "home",
+    "device": "iPhone 15 Pro",
+    "app_version": "4.1.0"
+  },
+  {
+    "uid": "u_66f8f13",
+    "msg": "How do I report a missing item?",
+    "ts": "2026-07-20T05:15:12+01:00",
+    "screen": "home",
+    "device": "iPhone SE (2022)",
+    "app_version": "4.1.2"
+  },
+  {
+    "uid": "u_f798b9c",
+    "msg": "Great selection of local restaurants. Five stars.",
+    "ts": "2026-07-20T10:45:12+01:00",
+    "screen": "home",
+    "device": "iPhone 14",
+    "app_version": "4.1.0"
+  },
+  {
+    "uid": "u_1f77a09",
+    "msg": "Can I add a second card?",
+    "ts": "2026-07-20T22:23:50+01:00",
+    "screen": "home",
+    "device": "Galaxy A54",
+    "app_version": "4.1.0"
+  },
+  {
+    "uid": "u_19667d0",
+    "msg": "Quick chinese yesterday, arrived early. Keep it up Thx",
+    "ts": "2026-07-21T03:48:36+01:00",
+    "screen": "home",
+    "device": "iPhone 14 Pro",
+    "app_version": "4.1.2"
+  },
+  {
+    "uid": "u_8eb2683",
+    "msg": "Been using PapaEats for 2 months now. The scheduled delivery thing is genius for the office",
+    "ts": "2026-07-21T12:42:11+01:00",
+    "screen": "home",
+    "device": "Galaxy S23",
+    "app_version": "4.1.2"
+  },
+  {
+    "uid": "u_761fce1",
+    "msg": "Been using PapaEats for a year, never lets me down.",
+    "ts": "2026-07-21T16:07:51+01:00",
+    "screen": "home",
+    "device": "Galaxy A54",
+    "app_version": "4.1.2"
+  },
+  {
+    "uid": "u_9a28c0c",
+    "msg": "Quick burgers yesterday, arrived early. Food was hot. Perfect Love the app otherwise.",
+    "ts": "2026-07-21T16:26:18+01:00",
+    "screen": "home",
+    "device": "Galaxy S24",
+    "app_version": "4.1.0"
+  },
+  {
+    "uid": "u_02037ec",
+    "msg": "found souvlaki bros on here and it's now our regular. reordering is two taps.",
+    "ts": "2026-07-21T20:33:33+01:00",
+    "screen": "home",
+    "device": "iPhone 14",
+    "app_version": "4.1.0"
+  },
+  {
+    "uid": "u_0ed572c",
+    "msg": "Cheaper than teh other apps and better restaurants.",
+    "ts": "2026-07-21T21:25:59+01:00",
+    "screen": "home",
+    "device": "iPhone 13",
+    "app_version": "4.1.0"
+  },
+  {
+    "uid": "u_87c30ba",
+    "msg": "Decent app, a bit slow sometimes.",
+    "ts": "2026-07-21T22:24:07+01:00",
+    "screen": "home",
+    "device": "Galaxy A54",
+    "app_version": "4.1.0"
+  },
+  {
+    "uid": "u_f08bd94",
+    "msg": "The promo codes are generous and actually work for me...",
+    "ts": "2026-07-22T03:11:47+01:00",
+    "screen": "home",
+    "device": "iPhone SE (2022)",
+    "app_version": "4.1.0"
+  },
+  {
+    "uid": "u_ecc2b16",
+    "msg": "Been using PapaEats for 5 months now... Never lets me down.",
+    "ts": "2026-07-22T03:34:20+01:00",
+    "screen": "home",
+    "device": "iPhone 14",
+    "app_version": "4.1.0"
+  },
+  {
+    "uid": "u_5b82fcd",
+    "msg": "Found Green Bowl on here and it's now our regular. Big fan",
+    "ts": "2026-07-22T10:24:04+01:00",
+    "screen": "home",
+    "device": "iPhone 16",
+    "app_version": "4.1.0"
+  },
+  {
+    "uid": "u_2a5d7eb",
+    "msg": "ordered pho for the whole family for movie night. Zero complaints Sort it please.",
+    "ts": "2026-07-22T15:44:33+01:00",
+    "screen": "home",
+    "device": "Galaxy A54",
+    "app_version": "4.1.2"
+  },
+  {
+    "uid": "u_d593c50",
+    "msg": "Hey team, Fantastic service, the driver was lovely and the food was perfect.",
+    "ts": "2026-07-22T16:31:00+01:00",
+    "screen": "home",
+    "device": "Galaxy S24",
+    "app_version": "4.1.2"
+  },
+  {
+    "uid": "u_77c0347",
+    "msg": "Five stars, no notes.",
+    "ts": "2026-07-23T07:58:04+01:00",
+    "screen": "home",
+    "device": "iPhone SE (2022)",
+    "app_version": "4.1.2"
+  },
+  {
+    "uid": "u_996cd27",
+    "msg": "Just so you know, ordered kebab from Poke Bros at lunch and it arrived in 39 minutes. Reordering is two taps.",
+    "ts": "2026-07-23T15:26:43+01:00",
+    "screen": "home",
+    "device": "Galaxy S24",
+    "app_version": "4.1.0"
+  },
+  {
+    "uid": "u_b8bf66c",
+    "msg": "friday night tacos sorted in about 26 minutes. Big fan.",
+    "ts": "2026-07-23T20:19:05+01:00",
+    "screen": "home",
+    "device": "Pixel 8",
+    "app_version": "4.1.2"
+  },
+  {
+    "uid": "u_d41bace",
+    "msg": "Second time my order has gone to the wrong address. Not impressed.",
+    "ts": "2026-07-23T20:48:52+01:00",
+    "screen": "order_details",
+    "device": "Galaxy S24",
+    "app_version": "4.1.2"
+  },
+  {
+    "uid": "u_5408f2c",
+    "msg": "How do I cancel an order I just placed?",
+    "ts": "2026-07-25T11:11:19+01:00",
+    "screen": "home",
+    "device": "Pixel 8",
+    "app_version": "4.1.2"
+  },
+  {
+    "uid": "u_0f89fe9",
+    "msg": "Right. perfect every time !!",
+    "ts": "2026-07-25T17:08:45+01:00",
+    "screen": "home",
+    "device": "Pixel 7a",
+    "app_version": "4.1.2"
+  },
+  {
+    "uid": "u_2ce02d8",
+    "msg": "love it 😩",
+    "ts": "2026-07-25T18:13:57+01:00",
+    "screen": "home",
+    "device": "iPhone 16",
+    "app_version": "4.1.2"
+  },
+  {
+    "uid": "u_0a32725",
+    "msg": "Hi, Been using PapaEats for a year, never lets me down.",
+    "ts": "2026-07-25T22:48:48+01:00",
+    "screen": "home",
+    "device": "Galaxy S24",
+    "app_version": "4.1.0"
+  },
+  {
+    "uid": "u_0a32725",
+    "msg": "Hi, Been using PapaEats for a year, never lets me down.",
+    "ts": "2026-07-25T22:48:48+01:00",
+    "screen": "home",
+    "device": "Galaxy S24",
+    "app_version": "4.1.0"
+  },
+  {
+    "uid": "u_348440e",
+    "msg": "Please let me request money from friends for their part of the order inside the app",
+    "ts": "2026-07-25T23:16:10+01:00",
+    "screen": "cart",
+    "device": "iPhone 16",
+    "app_version": "4.1.2"
+  },
+  {
+    "uid": "u_be9dcbe",
+    "msg": "Never had a problem with the app but the delivery times lately are terrible. Not impressed",
+    "ts": "2026-07-26T00:19:48+01:00",
+    "screen": "order_details",
+    "device": "OnePlus 12",
+    "app_version": "4.1.2"
+  },
+  {
+    "uid": "u_d48a5e0",
+    "msg": "38 orders in and not a single problem. Cheaper than the others too.",
+    "ts": "2026-07-26T05:40:57+01:00",
+    "screen": "home",
+    "device": "Galaxy S23",
+    "app_version": "4.1.2"
+  },
+  {
+    "uid": "u_fba46a7",
+    "msg": "How do I turn off marketing emails? 😩",
+    "ts": "2026-07-26T17:11:29+01:00",
+    "screen": "home",
+    "device": "iPhone 15",
+    "app_version": "4.1.0"
+  },
+  {
+    "uid": "u_964a833",
+    "msg": "So, The promo codes are generous and actually work for me !!",
+    "ts": "2026-07-26T18:07:51+01:00",
+    "screen": "home",
+    "device": "iPhone 15 Pro",
+    "app_version": "4.1.0"
+  },
+  {
+    "uid": "u_3005b37",
+    "msg": "Add dark mode and this is a 5 star app.",
+    "ts": "2026-07-27T06:32:24+01:00",
+    "screen": "settings",
+    "device": "Pixel 8",
+    "app_version": "4.1.2"
+  },
+  {
+    "uid": "u_9059b47",
+    "msg": "Clean design, easy to use, food always on time Sort it please.",
+    "ts": "2026-07-27T07:33:30+01:00",
+    "screen": "home",
+    "device": "iPhone 15",
+    "app_version": "4.1.2"
+  },
+  {
+    "uid": "u_3c46cf1",
+    "msg": "FYI just works. Love the live tracking",
+    "ts": "2026-07-27T13:54:08+01:00",
+    "screen": "home",
+    "device": "iPhone 16",
+    "app_version": "4.1.2"
+  },
+  {
+    "uid": "u_90f9f91",
+    "msg": "Just so you know, mama Rosa through this app last night. 30 minutes door to door. Zero complaints.",
+    "ts": "2026-07-27T21:29:28+01:00",
+    "screen": "home",
+    "device": "Pixel 8 Pro",
+    "app_version": "4.1.2"
+  },
+  {
+    "uid": "u_f245710",
+    "msg": "Not sure if anyone reads these but Late, cold, and missing the sauce. Great. Sort it out.",
+    "ts": "2026-07-28T01:03:00+01:00",
+    "screen": "order_details",
+    "device": "Galaxy S23",
+    "app_version": "4.1.2"
+  },
+  {
+    "uid": "u_9df228b",
+    "msg": "Food was cold and the drink was missing. Third time this month.",
+    "ts": "2026-07-28T01:28:16+01:00",
+    "screen": "order_details",
+    "device": "iPhone 16",
+    "app_version": "4.1.2"
+  },
+  {
+    "uid": "u_2dddd39",
+    "msg": "Not sure if anyone reads these but been using PapaEats for 6 months now. 10/10.",
+    "ts": "2026-07-28T08:02:42+01:00",
+    "screen": "home",
+    "device": "iPhone 15 Pro",
+    "app_version": "4.1.2"
+  },
+  {
+    "uid": "u_6388699",
+    "msg": "Filters don't stick. I set vegetarian and it resets every time.",
+    "ts": "2026-07-28T21:27:38+01:00",
+    "screen": "search",
+    "device": "iPhone 14 Pro",
+    "app_version": "4.1.2"
+  },
+  {
+    "uid": "u_5432c30",
+    "msg": "Absolutely brilliant. Ordered at 7, ate at 7:25 Please look into it.",
+    "ts": "2026-07-29T00:16:58+01:00",
+    "screen": "home",
+    "device": "Pixel 7a",
+    "app_version": "4.1.2"
+  },
+  {
+    "uid": "u_18d830c",
+    "msg": "Hey team, great app 👍",
+    "ts": "2026-07-29T05:32:58+01:00",
+    "screen": "home",
+    "device": "Pixel 8",
+    "app_version": "4.1.2"
+  },
+  {
+    "uid": "u_4786ce5",
+    "msg": "Just so you know, Delivery took over an hour and the noodles was cold. Come on.",
+    "ts": "2026-07-29T05:38:46+01:00",
+    "screen": "order_details",
+    "device": "iPhone 14 Pro",
+    "app_version": "4.1.2"
+  },
+  {
+    "uid": "u_43ee34e",
+    "msg": "Top tier app Love the app otherwise.",
+    "ts": "2026-07-29T10:16:39+01:00",
+    "screen": "home",
+    "device": "Galaxy A54",
+    "app_version": "4.1.2"
+  },
+  {
+    "uid": "u_db4cd7d",
+    "msg": "Found Poke Bros on here and it's now our regular. Brilliant.",
+    "ts": "2026-07-29T13:24:24+01:00",
+    "screen": "home",
+    "device": "OnePlus 12",
+    "app_version": "4.1.2"
+  },
+  {
+    "uid": "u_4b654f3",
+    "msg": "Delivery drivers are always friendly. Great app 😤",
+    "ts": "2026-07-29T21:09:41+01:00",
+    "screen": "home",
+    "device": "iPhone 16",
+    "app_version": "4.1.0"
+  },
+  {
+    "uid": "u_11e5b0c",
+    "msg": "Got half my order. Support gave me a £2 credit. Insulting. Refund please 😤",
+    "ts": "2026-07-30T00:19:42+01:00",
+    "screen": "order_details",
+    "device": "Pixel 8 Pro",
+    "app_version": "4.1.2"
+  },
+  {
+    "uid": "u_e823bb7",
+    "msg": "Ugh. Tracking screen shows my order 3 streets away for 15 minutes then suddenly 'delivered' Love the app otherwise.",
+    "ts": "2026-07-30T14:24:34+01:00",
+    "screen": "tracking",
+    "device": "iPhone 15 Pro",
+    "app_version": "4.1.2"
+  },
+  {
+    "uid": "u_5cafaba",
+    "msg": "Just so you know, burger Barn through this app on Sunday. 27 minutes door to door. Exactly what a delivery app should be Love the app otherwise.",
+    "ts": "2026-07-30T14:26:35+01:00",
+    "screen": "home",
+    "device": "Xiaomi 14",
+    "app_version": "4.1.2"
+  },
+  {
+    "uid": "u_0490003",
+    "msg": "perfect every time.",
+    "ts": "2026-07-30T17:59:45+01:00",
+    "screen": "home",
+    "device": "Galaxy S23",
+    "app_version": "4.1.2"
+  },
+  {
+    "uid": "u_0490003",
+    "msg": "perfect every time.",
+    "ts": "2026-07-30T17:59:45+01:00",
+    "screen": "home",
+    "device": "Galaxy S23",
+    "app_version": "4.1.2"
+  },
+  {
+    "uid": "u_4e5cda2",
+    "msg": "FYI friday night greek sorted in about 23 minutes. Keep it up Thx",
+    "ts": "2026-07-31T17:30:10+01:00",
+    "screen": "home",
+    "device": "iPhone SE (2022)",
+    "app_version": "4.1.2"
+  },
+  {
+    "uid": "u_d618a25",
+    "msg": "Can I tip after delivery?",
+    "ts": "2026-08-01T08:23:29+01:00",
+    "screen": "home",
+    "device": "Pixel 8 Pro",
+    "app_version": "4.1.0"
+  },
+  {
+    "uid": "u_fa9c44c",
+    "msg": "The new orange icon is hideous. Bring back the red one.",
+    "ts": "2026-08-01T09:00:00+01:00",
+    "screen": "settings",
+    "device": "iPhone SE (2022)",
+    "app_version": "4.1.0"
+  },
+  {
+    "uid": "u_4c9aa12",
+    "msg": "How do I report a missing item?",
+    "ts": "2026-08-02T03:30:13+01:00",
+    "screen": "home",
+    "device": "Xiaomi 14",
+    "app_version": "4.1.2"
+  },
+  {
+    "uid": "u_fa9c44c",
+    "msg": "Still hate the orange icon.",
+    "ts": "2026-08-02T09:00:00+01:00",
+    "screen": "settings",
+    "device": "iPhone 13",
+    "app_version": "4.1.2"
+  },
+  {
+    "uid": "u_fa9c44c",
+    "msg": "Still hate the orange icon.",
+    "ts": "2026-08-02T09:00:00+01:00",
+    "screen": "settings",
+    "device": "iPhone 13",
+    "app_version": "4.1.2"
+  },
+  {
+    "uid": "u_5098eb7",
+    "msg": "Late, cold, and missing the sauce. Great Please look into it.",
+    "ts": "2026-08-02T09:35:23+01:00",
+    "screen": "order_details",
+    "device": "iPhone 14",
+    "app_version": "4.1.2"
+  },
+  {
+    "uid": "u_d0bd993",
+    "msg": "Ugh. Great selection of local restaurants. Five stars.",
+    "ts": "2026-08-02T09:39:16+01:00",
+    "screen": "home",
+    "device": "iPhone 15 Pro",
+    "app_version": "4.1.2"
+  },
+  {
+    "uid": "u_826289c",
+    "msg": "Fine for what it is.",
+    "ts": "2026-08-02T11:05:46+01:00",
+    "screen": "home",
+    "device": "Pixel 8",
+    "app_version": "4.1.0"
+  },
+  {
+    "uid": "u_070f8b9",
+    "msg": "Hey team, the refund for my missing items took 8 days. Refund please.",
+    "ts": "2026-08-02T12:09:20+01:00",
+    "screen": "order_details",
+    "device": "Pixel 7a",
+    "app_version": "4.1.2"
+  },
+  {
+    "uid": "u_ae8c513",
+    "msg": "Quick tacos yesterday, arrived early. Five stars Please look into it.",
+    "ts": "2026-08-02T16:38:35+01:00",
+    "screen": "home",
+    "device": "iPhone SE (2022)",
+    "app_version": "4.1.2"
+  },
+  {
+    "uid": "u_ffebc93",
+    "msg": "Quick one: eTA said 25 mins. Took 47. Not impressed",
+    "ts": "2026-08-02T17:57:12+01:00",
+    "screen": "order_details",
+    "device": "Pixel 8",
+    "app_version": "4.1.0"
+  },
+  {
+    "uid": "u_9f649b5",
+    "msg": "solid app. Does what it says.",
+    "ts": "2026-08-02T18:06:58+01:00",
+    "screen": "home",
+    "device": "iPhone 15 Pro",
+    "app_version": "4.1.0"
+  },
+  {
+    "uid": "u_55630e5",
+    "msg": "Ordered vegan bowls from The Pie Shop after work and it arrived in 22 minutes. Brilliant.",
+    "ts": "2026-08-02T21:19:05+01:00",
+    "screen": "home",
+    "device": "iPhone 14",
+    "app_version": "4.1.2"
+  },
+  {
+    "uid": "u_4a33583",
+    "msg": "Anyone know if Nonna's does gluten free?",
+    "ts": "2026-08-02T23:18:26+01:00",
+    "screen": "home",
+    "device": "Pixel 8",
+    "app_version": "4.1.0"
+  },
+  {
+    "uid": "u_e3bd978",
+    "msg": "Good app but the service fee keeps creeping up...",
+    "ts": "2026-08-02T23:32:51+01:00",
+    "screen": "home",
+    "device": "Galaxy S24",
+    "app_version": "4.1.0"
+  },
+  {
+    "uid": "u_e29acef",
+    "msg": "fries were cold and the burger was squashed. sort it out.",
+    "ts": "2026-08-03T01:42:09+01:00",
+    "screen": "order_details",
+    "device": "Xiaomi 14",
+    "app_version": "4.1.2"
+  },
+  {
+    "uid": "u_19a7e8b",
+    "msg": "Found The Pie Shop on here and it's now our regular... Never lets me down Thanks.",
+    "ts": "2026-08-03T12:35:37+01:00",
+    "screen": "home",
+    "device": "iPhone 14 Pro",
+    "app_version": "4.1.2"
+  },
+  {
+    "uid": "u_19a7e8b",
+    "msg": "Found The Pie Shop on here and it's now our regular... Never lets me down Thanks.",
+    "ts": "2026-08-03T12:35:37+01:00",
+    "screen": "home",
+    "device": "iPhone 14 Pro",
+    "app_version": "4.1.2"
+  },
+  {
+    "uid": "u_2cda59b",
+    "msg": "Taco Loco through this app after work. 21 minutes door to door. Reordering is two taps.",
+    "ts": "2026-08-03T13:13:52+01:00",
+    "screen": "home",
+    "device": "iPhone 13",
+    "app_version": "4.1.0"
+  },
+  {
+    "uid": "u_66b85c4",
+    "msg": "🔥🔥🔥",
+    "ts": "2026-08-04T08:52:08+01:00",
+    "screen": "home",
+    "device": "OnePlus 12",
+    "app_version": "4.1.0"
+  },
+  {
+    "uid": "u_0e6310f",
+    "msg": "FYI the refund for my missing items took 8 days. Refund please.",
+    "ts": "2026-08-04T13:57:02+01:00",
+    "screen": "order_details",
+    "device": "Xiaomi 14",
+    "app_version": "4.1.2"
+  },
+  {
+    "uid": "u_0e6310f",
+    "msg": "FYI the refund for my missing items took 8 days. Refund please.",
+    "ts": "2026-08-04T13:57:02+01:00",
+    "screen": "order_details",
+    "device": "Xiaomi 14",
+    "app_version": "4.1.2"
+  },
+  {
+    "uid": "u_4b5c919",
+    "msg": "Clean design, easy to use, food always on time Anyone else?",
+    "ts": "2026-08-04T14:03:07+01:00",
+    "screen": "home",
+    "device": "Pixel 8 Pro",
+    "app_version": "4.1.2"
+  },
+  {
+    "uid": "u_a802a78",
+    "msg": "10/10 would recommend.",
+    "ts": "2026-08-04T21:58:17+01:00",
+    "screen": "home",
+    "device": "iPhone 16",
+    "app_version": "4.1.0"
+  },
+  {
+    "uid": "u_c0786ba",
+    "msg": "Been using PapaEats for 11 months now. 10/10 Please look into it.",
+    "ts": "2026-08-05T01:53:25+01:00",
+    "screen": "home",
+    "device": "iPhone 14",
+    "app_version": "4.1.2"
+  },
+  {
+    "uid": "u_27db63d",
+    "msg": "Do you deliver to Manchester yet?",
+    "ts": "2026-08-05T05:52:04+01:00",
+    "screen": "home",
+    "device": "Pixel 7a",
+    "app_version": "4.1.2"
+  },
+  {
+    "uid": "u_33354e7",
+    "msg": "Five stars, no notes.",
+    "ts": "2026-08-06T01:31:05+01:00",
+    "screen": "home",
+    "device": "Pixel 8",
+    "app_version": "4.1.2"
+  },
+  {
+    "uid": "u_f28660c",
+    "msg": "Quick indian on Sunday, arrived early. Keep it up Love the app otherwise.",
+    "ts": "2026-08-06T02:17:51+01:00",
+    "screen": "home",
+    "device": "Xiaomi 14",
+    "app_version": "4.1.0"
+  },
+  {
+    "uid": "u_20cd809",
+    "msg": "Easy peasy.",
+    "ts": "2026-08-06T02:18:32+01:00",
+    "screen": "home",
+    "device": "iPhone SE (2022)",
+    "app_version": "4.1.2"
+  },
+  {
+    "uid": "u_4c6aab9",
+    "msg": "Second time my order has gone to the wrong address. Disappointed Anyone else?",
+    "ts": "2026-08-06T13:04:07+01:00",
+    "screen": "order_details",
+    "device": "iPhone 15",
+    "app_version": "4.1.2"
+  },
+  {
+    "uid": "u_246cf66",
+    "msg": "Dark mode when?",
+    "ts": "2026-08-07T08:57:59+01:00",
+    "screen": "settings",
+    "device": "iPhone 14",
+    "app_version": "4.1.2"
+  },
+  {
+    "uid": "u_098a3ba",
+    "msg": "FYI missing items, again. Paid for 3, got 2. Third time this month.",
+    "ts": "2026-08-07T12:18:26+01:00",
+    "screen": "order_details",
+    "device": "Pixel 7a",
+    "app_version": "4.1.2"
+  },
+  {
+    "uid": "u_05fd773",
+    "msg": "Is the app made in the UK?",
+    "ts": "2026-08-07T16:22:58+01:00",
+    "screen": "home",
+    "device": "Galaxy S24",
+    "app_version": "4.1.2"
+  },
+  {
+    "uid": "u_e30db72",
+    "msg": "Golden Dragon through this app after work. 37 minutes door to door. Five stars Thx",
+    "ts": "2026-08-08T04:49:22+01:00",
+    "screen": "home",
+    "device": "Pixel 8",
+    "app_version": "4.1.0"
+  },
+  {
+    "uid": "u_109af99",
+    "msg": "five stars, no notes.",
+    "ts": "2026-08-08T08:29:12+01:00",
+    "screen": "home",
+    "device": "Pixel 7a",
+    "app_version": "4.1.2"
+  },
+  {
+    "uid": "u_b26f763",
+    "msg": "great app 👍 Love the app otherwise.",
+    "ts": "2026-08-08T19:53:09+01:00",
+    "screen": "home",
+    "device": "iPhone 15 Pro",
+    "app_version": "4.1.2"
+  },
+  {
+    "uid": "u_4e45907",
+    "msg": "The scheduled delivery feature is brilliant for office lunches Sort it please.",
+    "ts": "2026-08-08T23:35:43+01:00",
+    "screen": "home",
+    "device": "iPhone 14 Pro",
+    "app_version": "4.1.0"
+  },
+  {
+    "uid": "u_45adaf1",
+    "msg": "Wrong order delivered. Got someone's sushi instead of my poke. Won't be ordering again.",
+    "ts": "2026-08-09T00:11:05+01:00",
+    "screen": "order_details",
+    "device": "Pixel 7a",
+    "app_version": "4.1.2"
+  },
+  {
+    "uid": "u_fa5dd47",
+    "msg": "Quick vegan bowls for the match, arrived early. Food was hot. Perfect.",
+    "ts": "2026-08-09T04:26:19+01:00",
+    "screen": "home",
+    "device": "Pixel 8 Pro",
+    "app_version": "4.1.0"
+  },
+  {
+    "uid": "u_de00b39",
+    "msg": "Ordered greek for the whole family at lunch. Simple, fast, reliable !!",
+    "ts": "2026-08-09T08:42:28+01:00",
+    "screen": "home",
+    "device": "Galaxy A54",
+    "app_version": "4.1.2"
+  },
+  {
+    "uid": "u_55fea57",
+    "msg": "Ordered pho from Wing Kings on Sunday and it arrived in 28 minutes. Driver was lovely.",
+    "ts": "2026-08-09T10:33:04+01:00",
+    "screen": "home",
+    "device": "Galaxy A54",
+    "app_version": "4.1.0"
+  },
+  {
+    "uid": "u_b3e5e77",
+    "msg": "not sure if anyone reads these but why does the app send two of every notification? thx",
+    "ts": "2026-08-10T02:48:55+01:00",
+    "screen": "settings",
+    "device": "iPhone 16",
+    "app_version": "4.1.0"
+  },
+  {
+    "uid": "u_55608e4",
+    "msg": "great app 👍",
+    "ts": "2026-08-10T04:35:06+01:00",
+    "screen": "home",
+    "device": "OnePlus 12",
+    "app_version": "4.1.2"
+  },
+  {
+    "uid": "u_c8f661d",
+    "msg": "Honestly, golden Dragon through this app at lunch. 36 minutes door to door. Love it.",
+    "ts": "2026-08-10T06:21:02+01:00",
+    "screen": "home",
+    "device": "iPhone 13",
+    "app_version": "4.1.0"
+  },
+  {
+    "uid": "u_1c40951",
+    "msg": "Hey team, The scheduled delivery feature is brilliant for office lunches.",
+    "ts": "2026-08-10T08:49:10+01:00",
+    "screen": "home",
+    "device": "Galaxy S24",
+    "app_version": "4.1.2"
+  },
+  {
+    "uid": "u_1490a9d",
+    "msg": "Not sure if anyone reads these but The reorder button is genius Thanks.",
+    "ts": "2026-08-10T11:01:30+01:00",
+    "screen": "home",
+    "device": "iPhone 13",
+    "app_version": "4.1.0"
+  },
+  {
+    "uid": "u_6cae950",
+    "msg": "34 orders in and not a single problem. Five stars Anyone else?",
+    "ts": "2026-08-10T12:12:04+01:00",
+    "screen": "home",
+    "device": "Xiaomi 14",
+    "app_version": "4.1.0"
+  },
+  {
+    "uid": "u_5579a90",
+    "msg": "Second time my order has gone to the wrong address. Come on !!",
+    "ts": "2026-08-10T14:16:24+01:00",
+    "screen": "order_details",
+    "device": "Xiaomi 14",
+    "app_version": "4.1.0"
+  },
+  {
+    "uid": "u_ed693fc",
+    "msg": "Been using PapaEats for a year, never lets me down Cheers.",
+    "ts": "2026-08-10T18:31:35+01:00",
+    "screen": "home",
+    "device": "iPhone 14 Pro",
+    "app_version": "4.1.2"
+  },
+  {
+    "uid": "u_0f2e564",
+    "msg": "love it. Ordered in 30 seconds and the food came hot Thx",
+    "ts": "2026-08-10T22:28:51+01:00",
+    "screen": "home",
+    "device": "iPhone 15",
+    "app_version": "4.1.0"
+  },
+  {
+    "uid": "u_b13657b",
+    "msg": "36 orders in and not a single problem. Keep it up Sort it please.",
+    "ts": "2026-08-11T02:48:05+01:00",
+    "screen": "home",
+    "device": "iPhone 13",
+    "app_version": "4.1.2"
+  },
+  {
+    "uid": "u_33953d1",
+    "msg": "Found Mama Rosa on here and it's now our regular. Zero complaints.",
+    "ts": "2026-08-11T07:32:12+01:00",
+    "screen": "home",
+    "device": "Xiaomi 14",
+    "app_version": "4.1.2"
+  },
+  {
+    "uid": "u_c3f3b00",
+    "msg": "search results are random. Searching 'thai' gave me a burger place first",
+    "ts": "2026-08-11T07:41:50+01:00",
+    "screen": "search",
+    "device": "iPhone SE (2022)",
+    "app_version": "4.1.2"
+  },
+  {
+    "uid": "u_3d13987",
+    "msg": "Just so you know, Ordered tacos from Taco Loco at lunch and it arrived in 31 minutes. Great selection round here.",
+    "ts": "2026-08-11T10:35:58+01:00",
+    "screen": "home",
+    "device": "Xiaomi 14",
+    "app_version": "4.1.2"
+  },
+  {
+    "uid": "u_4e45907",
+    "msg": "Quick one: So good 😍",
+    "ts": "2026-08-11T23:29:59+01:00",
+    "screen": "home",
+    "device": "iPhone 13",
+    "app_version": "4.1.2"
+  },
+  {
+    "uid": "u_fa893c1",
+    "msg": "Been using PapaEats for 9 months now. Love it Love the app otherwise.",
+    "ts": "2026-08-12T04:37:20+01:00",
+    "screen": "home",
+    "device": "iPhone 15 Pro",
+    "app_version": "4.1.2"
+  },
+  {
+    "uid": "u_6e492a2",
+    "msg": "Alright. Some restaurants are overpriced on here.",
+    "ts": "2026-08-12T14:09:28+01:00",
+    "screen": "home",
+    "device": "iPhone 14 Pro",
+    "app_version": "4.1.2"
+  },
+  {
+    "uid": "u_6e492a2",
+    "msg": "Alright. Some restaurants are overpriced on here.",
+    "ts": "2026-08-12T14:09:28+01:00",
+    "screen": "home",
+    "device": "iPhone 14 Pro",
+    "app_version": "4.1.2"
+  },
+  {
+    "uid": "u_2e73acd",
+    "msg": "Where do I find my receipts?",
+    "ts": "2026-08-12T15:00:28+01:00",
+    "screen": "home",
+    "device": "iPhone 16",
+    "app_version": "4.1.2"
+  },
+  {
+    "uid": "u_61ca6cc",
+    "msg": "Order was 71 minutes late with no updates. Refund please.",
+    "ts": "2026-08-12T18:52:52+01:00",
+    "screen": "order_details",
+    "device": "Galaxy S24",
+    "app_version": "4.1.0"
+  },
+  {
+    "uid": "u_629e342",
+    "msg": "Quick one: Other apps let you split payment between cards. Would be great here too Love the app otherwise.",
+    "ts": "2026-08-12T23:17:39+01:00",
+    "screen": "cart",
+    "device": "Pixel 8 Pro",
+    "app_version": "4.1.2"
+  },
+  {
+    "uid": "u_4d3a1bd",
+    "msg": "Can I pay with PayPal?",
+    "ts": "2026-08-13T04:46:36+01:00",
+    "screen": "home",
+    "device": "Pixel 8 Pro",
+    "app_version": "4.1.0"
+  },
+  {
+    "uid": "u_5f3e342",
+    "msg": "Ordered burgers for the whole family for the match. The tracking is spot on Love the app otherwise.",
+    "ts": "2026-08-14T15:09:59+01:00",
+    "screen": "home",
+    "device": "OnePlus 12",
+    "app_version": "4.1.2"
+  },
+  {
+    "uid": "u_1f1d23d",
+    "msg": "Driver marked it delivered. It was not delivered. Disappointed Anyone else?",
+    "ts": "2026-08-15T11:31:49+01:00",
+    "screen": "order_details",
+    "device": "OnePlus 12",
+    "app_version": "4.1.2"
+  },
+  {
+    "uid": "u_c369015",
+    "msg": "Burger Barn through this app yesterday. 40 minutes door to door. Never lets me down",
+    "ts": "2026-08-15T16:48:38+01:00",
+    "screen": "home",
+    "device": "iPhone 15",
+    "app_version": "4.1.2"
+  },
+  {
+    "uid": "u_d44ca72",
+    "msg": "Would pay for a premium tier if it had group ordering Anyone else?",
+    "ts": "2026-08-15T20:02:11+01:00",
+    "screen": "cart",
+    "device": "iPhone SE (2022)",
+    "app_version": "4.1.2"
+  },
+  {
+    "uid": "u_d44ca72",
+    "msg": "Would pay for a premium tier if it had group ordering Anyone else?",
+    "ts": "2026-08-15T20:02:11+01:00",
+    "screen": "cart",
+    "device": "iPhone SE (2022)",
+    "app_version": "4.1.2"
+  },
+  {
+    "uid": "u_2dddd39",
+    "msg": "Been using PapaEats for 6 months now. Zero complaints.",
+    "ts": "2026-08-16T01:12:35+01:00",
+    "screen": "home",
+    "device": "iPhone 14 Pro",
+    "app_version": "4.1.0"
+  },
+  {
+    "uid": "u_2808ecf",
+    "msg": "Friday night tacos sorted in about 27 minutes. 10/10.",
+    "ts": "2026-08-16T20:32:28+01:00",
+    "screen": "home",
+    "device": "Pixel 8 Pro",
+    "app_version": "4.1.2"
+  },
+  {
+    "uid": "u_2918d0a",
+    "msg": "how to change phone number",
+    "ts": "2026-08-16T21:31:51+01:00",
+    "screen": "home",
+    "device": "iPhone SE (2022)",
+    "app_version": "4.1.2"
+  },
+  {
+    "uid": "u_129c29f",
+    "msg": "Ordered thai for the whole family on Sunday. Five stars Sort it please.",
+    "ts": "2026-08-17T06:22:36+01:00",
+    "screen": "home",
+    "device": "Galaxy A54",
+    "app_version": "4.1.2"
+  },
+  {
+    "uid": "u_70074f0",
+    "msg": "Love it. Ordered in 30 seconds and the food came hot.",
+    "ts": "2026-08-17T13:12:34+01:00",
+    "screen": "home",
+    "device": "iPhone SE (2022)",
+    "app_version": "4.1.2"
+  },
+  {
+    "uid": "u_a386c98",
+    "msg": "average. nothing special, nothing terrible cheers.",
+    "ts": "2026-08-17T17:16:01+01:00",
+    "screen": "home",
+    "device": "Pixel 8",
+    "app_version": "4.1.2"
+  },
+  {
+    "uid": "u_563d6fa",
+    "msg": "32 orders in and not a single problem. driver was lovely.",
+    "ts": "2026-08-17T19:06:18+01:00",
+    "screen": "home",
+    "device": "Pixel 8",
+    "app_version": "4.1.0"
+  },
+  {
+    "uid": "u_c20a2ab",
+    "msg": "great selection of local restaurants... five stars 😤",
+    "ts": "2026-08-17T23:53:07+01:00",
+    "screen": "home",
+    "device": "iPhone 14",
+    "app_version": "4.1.2"
+  },
+  {
+    "uid": "u_42690a9",
+    "msg": "yum Cheers.",
+    "ts": "2026-08-18T00:43:18+01:00",
+    "screen": "home",
+    "device": "iPhone SE (2022)",
+    "app_version": "4.1.0"
+  },
+  {
+    "uid": "u_b3b4d40",
+    "msg": "Quick, reliable, great support when something goes wrong.",
+    "ts": "2026-08-18T16:04:19+01:00",
+    "screen": "home",
+    "device": "Pixel 8",
+    "app_version": "4.1.2"
+  },
+  {
+    "uid": "u_66f8f13",
+    "msg": "24 orders in and not a single problem. Keep it up.",
+    "ts": "2026-08-18T21:42:32+01:00",
+    "screen": "home",
+    "device": "OnePlus 12",
+    "app_version": "4.1.2"
+  },
+  {
+    "uid": "u_cc674ba",
+    "msg": "Hi, Quick, reliable, great support when something goes wrong !!",
+    "ts": "2026-08-19T00:37:33+01:00",
+    "screen": "home",
+    "device": "Pixel 8 Pro",
+    "app_version": "4.1.0"
+  },
+  {
+    "uid": "u_cc674ba",
+    "msg": "Hi, Quick, reliable, great support when something goes wrong !!",
+    "ts": "2026-08-19T00:37:33+01:00",
+    "screen": "home",
+    "device": "Pixel 8 Pro",
+    "app_version": "4.1.0"
+  },
+  {
+    "uid": "u_0ca62d5",
+    "msg": "Big fan. Please add more restaurants in Leeds though.",
+    "ts": "2026-08-19T07:58:18+01:00",
+    "screen": "home",
+    "device": "iPhone 13",
+    "app_version": "4.1.2"
+  },
+  {
+    "uid": "u_4af36d0",
+    "msg": "Been using PapaEats for 12 months now. Great selection round here.",
+    "ts": "2026-08-19T17:13:47+01:00",
+    "screen": "home",
+    "device": "iPhone 13",
+    "app_version": "4.1.0"
+  },
+  {
+    "uid": "u_ca35dfd",
+    "msg": "Hi, friday night chinese sorted in about 30 minutes. Cheaper than the others too 😩",
+    "ts": "2026-08-19T17:35:50+01:00",
+    "screen": "home",
+    "device": "Galaxy S24",
+    "app_version": "4.1.2"
+  },
+  {
+    "uid": "u_a2c4c9d",
+    "msg": "Quick ramen on Sunday, arrived early. Five stars.",
+    "ts": "2026-08-19T21:38:17+01:00",
+    "screen": "home",
+    "device": "iPhone 13",
+    "app_version": "4.1.2"
+  },
+  {
+    "uid": "u_82c1601",
+    "msg": "Hi, The promo codes are generous and actually work for me !!",
+    "ts": "2026-08-20T01:05:02+01:00",
+    "screen": "home",
+    "device": "iPhone 14",
+    "app_version": "4.1.2"
+  },
+  {
+    "uid": "u_96ec4a2",
+    "msg": "been using PapaEats for a year, never lets me down Anyone else?",
+    "ts": "2026-08-20T08:40:58+01:00",
+    "screen": "home",
+    "device": "Galaxy A54",
+    "app_version": "4.1.2"
+  },
+  {
+    "uid": "u_4853106",
+    "msg": "The scheduled delivery feature is brilliant for office lunches.",
+    "ts": "2026-08-20T11:52:38+01:00",
+    "screen": "home",
+    "device": "Pixel 7a",
+    "app_version": "4.1.0"
+  },
+  {
+    "uid": "u_28c4c95",
+    "msg": "Can I change my order after placing it?",
+    "ts": "2026-08-20T12:12:03+01:00",
+    "screen": "home",
+    "device": "Pixel 7a",
+    "app_version": "4.1.0"
+  },
+  {
+    "uid": "u_2f713f6",
+    "msg": "Can I order for pickup instead of delivery?",
+    "ts": "2026-08-21T02:48:01+01:00",
+    "screen": "home",
+    "device": "Galaxy A54",
+    "app_version": "4.1.2"
+  },
+  {
+    "uid": "u_344236f",
+    "msg": "Wing Kings sent the wrong dish and nobody answers the chat. Third time this month.",
+    "ts": "2026-08-21T02:58:56+01:00",
+    "screen": "order_details",
+    "device": "iPhone 14",
+    "app_version": "4.1.2"
+  },
+  {
+    "uid": "u_344236f",
+    "msg": "Wing Kings sent the wrong dish and nobody answers the chat. Third time this month.",
+    "ts": "2026-08-21T02:58:56+01:00",
+    "screen": "order_details",
+    "device": "iPhone 14",
+    "app_version": "4.1.2"
+  },
+  {
+    "uid": "u_da1b199",
+    "msg": "Honestly, quick ramen after work, arrived early. Zero complaints.",
+    "ts": "2026-08-21T05:33:15+01:00",
+    "screen": "home",
+    "device": "iPhone SE (2022)",
+    "app_version": "4.1.2"
+  },
+  {
+    "uid": "u_3075718",
+    "msg": "ordered indian for the whole family on Friday... Five stars.",
+    "ts": "2026-08-21T08:44:54+01:00",
+    "screen": "home",
+    "device": "iPhone 13",
+    "app_version": "4.1.0"
+  },
+  {
+    "uid": "u_85d4441",
+    "msg": "Absolutely brilliant. Ordered at 7, ate at 7:25",
+    "ts": "2026-08-21T10:57:42+01:00",
+    "screen": "home",
+    "device": "iPhone 15",
+    "app_version": "4.1.2"
+  },
+  {
+    "uid": "u_561f408",
+    "msg": "fine for what it is.",
+    "ts": "2026-08-21T11:39:31+01:00",
+    "screen": "home",
+    "device": "Xiaomi 14",
+    "app_version": "4.1.2"
+  },
+  {
+    "uid": "u_696cf59",
+    "msg": "Just works. Love the live tracking.",
+    "ts": "2026-08-21T18:34:57+01:00",
+    "screen": "home",
+    "device": "Pixel 8",
+    "app_version": "4.1.0"
+  },
+  {
+    "uid": "u_86e6c87",
+    "msg": "been using PapaEats for a year, never lets me down.",
+    "ts": "2026-08-22T00:35:40+01:00",
+    "screen": "home",
+    "device": "Galaxy S23",
+    "app_version": "4.1.2"
+  },
+  {
+    "uid": "u_b8997e1",
+    "msg": "Customer support sorted my missing item in five minutes. Impressed.",
+    "ts": "2026-08-22T11:39:33+01:00",
+    "screen": "home",
+    "device": "Pixel 8",
+    "app_version": "4.1.0"
+  },
+  {
+    "uid": "u_b8debec",
+    "msg": "ordered vegan bowls for the whole family on Friday. Driver was lovely.",
+    "ts": "2026-08-22T21:29:15+01:00",
+    "screen": "home",
+    "device": "iPhone 14 Pro",
+    "app_version": "4.1.0"
+  },
+  {
+    "uid": "u_93a304e",
+    "msg": "Delivery drivers are always friendly. Great app.",
+    "ts": "2026-08-23T04:23:12+01:00",
+    "screen": "home",
+    "device": "iPhone 14 Pro",
+    "app_version": "4.1.0"
+  },
+  {
+    "uid": "u_e9df6f3",
+    "msg": "Wing Kings sent the wrong dish and nobody answers the chat. Disappointed",
+    "ts": "2026-08-23T04:57:45+01:00",
+    "screen": "order_details",
+    "device": "iPhone 15 Pro",
+    "app_version": "4.1.2"
+  },
+  {
+    "uid": "u_ae1bf9d",
+    "msg": "Just so you know, big fan. Please add more restaurants in Leeds though 😩",
+    "ts": "2026-08-23T17:45:45+01:00",
+    "screen": "home",
+    "device": "OnePlus 12",
+    "app_version": "4.1.2"
+  },
+  {
+    "uid": "u_b8aa60a",
+    "msg": "friday night greek sorted in about 37 minutes. driver was lovely.",
+    "ts": "2026-08-23T18:31:07+01:00",
+    "screen": "home",
+    "device": "Galaxy A54",
+    "app_version": "4.1.0"
+  },
+  {
+    "uid": "u_39c2b5b",
+    "msg": "Feature request: let multiple people pay for one order.",
+    "ts": "2026-08-23T23:43:26+01:00",
+    "screen": "cart",
+    "device": "iPhone SE (2022)",
+    "app_version": "4.1.0"
+  },
+  {
+    "uid": "u_21ea162",
+    "msg": "right. quick sushi for the match, arrived early. keep it up.",
+    "ts": "2026-08-24T07:51:51+01:00",
+    "screen": "home",
+    "device": "Pixel 8 Pro",
+    "app_version": "4.1.2"
+  },
+  {
+    "uid": "u_2638b30",
+    "msg": "Just so you know, Got half my order. Support gave me a £2 credit. Insulting.",
+    "ts": "2026-08-24T16:11:19+01:00",
+    "screen": "order_details",
+    "device": "Galaxy A54",
+    "app_version": "4.1.2"
+  },
+  {
+    "uid": "u_c4497fd",
+    "msg": "Suggestion: collaborative orders where each person pays their share.",
+    "ts": "2026-08-24T18:36:17+01:00",
+    "screen": "cart",
+    "device": "iPhone 15 Pro",
+    "app_version": "4.1.0"
+  },
+  {
+    "uid": "u_4853106",
+    "msg": "So, Okay app, delivery fees are a bit high Thanks.",
+    "ts": "2026-08-24T21:12:06+01:00",
+    "screen": "home",
+    "device": "iPhone 13",
+    "app_version": "4.1.2"
+  },
+  {
+    "uid": "u_b403140",
+    "msg": "Friday night sushi sorted in about 38 minutes. Brilliant Love the app otherwise.",
+    "ts": "2026-08-25T17:13:08+01:00",
+    "screen": "home",
+    "device": "iPhone SE (2022)",
+    "app_version": "4.1.0"
+  },
+  {
+    "uid": "u_681fdb3",
+    "msg": "Friday night fried chicken sorted in about 34 minutes. Reordering is two taps.",
+    "ts": "2026-08-26T03:42:24+01:00",
+    "screen": "home",
+    "device": "iPhone 16",
+    "app_version": "4.1.2"
+  },
+  {
+    "uid": "u_c43edcf",
+    "msg": "10/10 would recommend...",
+    "ts": "2026-08-26T05:41:30+01:00",
+    "screen": "home",
+    "device": "iPhone SE (2022)",
+    "app_version": "4.1.2"
+  },
+  {
+    "uid": "u_ebcb148",
+    "msg": "Ordered pizza for the whole family for movie night. Keep it up Thanks.",
+    "ts": "2026-08-26T18:01:27+01:00",
+    "screen": "home",
+    "device": "iPhone 16",
+    "app_version": "4.1.2"
+  },
+  {
+    "uid": "u_c07a9b2",
+    "msg": "How do I change my default address?",
+    "ts": "2026-08-27T03:27:16+01:00",
+    "screen": "home",
+    "device": "Pixel 8 Pro",
+    "app_version": "4.1.2"
+  },
+  {
+    "uid": "u_99d1488",
+    "msg": "Green Bowl cancelled my order after 30 minutes of waiting...",
+    "ts": "2026-08-27T21:07:22+01:00",
+    "screen": "order_details",
+    "device": "iPhone 16",
+    "app_version": "4.1.0"
+  },
+  {
+    "uid": "u_5fd18f7",
+    "msg": "curry leaf through this app on sunday. 32 minutes door to door. best delivery app i've used.",
+    "ts": "2026-08-28T03:32:09+01:00",
+    "screen": "home",
+    "device": "iPhone 15",
+    "app_version": "4.1.2"
+  },
+  {
+    "uid": "u_5fd18f7",
+    "msg": "curry leaf through this app on sunday. 32 minutes door to door. best delivery app i've used.",
+    "ts": "2026-08-28T03:32:09+01:00",
+    "screen": "home",
+    "device": "iPhone 15",
+    "app_version": "4.1.2"
+  },
+  {
+    "uid": "u_0d833da",
+    "msg": "tip charged twice, please refund",
+    "ts": "2026-08-28T15:53:04+01:00",
+    "screen": "receipt",
+    "device": "OnePlus 12",
+    "app_version": "4.1.2"
+  },
+  {
+    "uid": "u_37ebd96",
+    "msg": "Honestly, The promo codes are generous and actually work for me.",
+    "ts": "2026-08-29T05:11:26+01:00",
+    "screen": "home",
+    "device": "iPhone 15",
+    "app_version": "4.1.2"
+  },
+  {
+    "uid": "u_05cc530",
+    "msg": "Can I pay with PayPal? Please look into it.",
+    "ts": "2026-08-29T17:07:08+01:00",
+    "screen": "home",
+    "device": "Pixel 8 Pro",
+    "app_version": "4.1.0"
+  },
+  {
+    "uid": "u_620c967",
+    "msg": "33 orders in and not a single problem. Driver was lovely Thanks.",
+    "ts": "2026-08-29T19:25:16+01:00",
+    "screen": "home",
+    "device": "Galaxy S24",
+    "app_version": "4.1.2"
+  },
+  {
+    "uid": "u_3d2d41d",
+    "msg": "Delivery drivers are always friendly. Great app.",
+    "ts": "2026-08-29T19:59:58+01:00",
+    "screen": "home",
+    "device": "Pixel 7a",
+    "app_version": "4.1.0"
+  },
+  {
+    "uid": "u_5518578",
+    "msg": "Still no dark mode. Asking again nicely.",
+    "ts": "2026-08-29T20:25:15+01:00",
+    "screen": "settings",
+    "device": "iPhone 14",
+    "app_version": "4.1.2"
+  },
+  {
+    "uid": "u_d957e37",
+    "msg": "Better than the big apps for my area. Way more choice.",
+    "ts": "2026-08-29T20:48:25+01:00",
+    "screen": "home",
+    "device": "iPhone 16",
+    "app_version": "4.1.2"
+  },
+  {
+    "uid": "u_9b98210",
+    "msg": "taco Loco through this app after work. 22 minutes door to door. Love it.",
+    "ts": "2026-08-30T08:39:20+01:00",
+    "screen": "home",
+    "device": "Galaxy S23",
+    "app_version": "4.1.2"
+  },
+  {
+    "uid": "u_f67116d",
+    "msg": "Good enough.",
+    "ts": "2026-08-30T12:54:43+01:00",
+    "screen": "home",
+    "device": "Pixel 8",
+    "app_version": "4.1.2"
+  },
+  {
+    "uid": "u_31b0339",
+    "msg": "Found Nonna's on here and it's now our regular. Simple, fast, reliable.",
+    "ts": "2026-08-30T13:21:23+01:00",
+    "screen": "home",
+    "device": "Pixel 7a",
+    "app_version": "4.1.0"
+  },
+  {
+    "uid": "u_e2c7cf7",
+    "msg": "Found Sakura on here and it's now our regular. Never lets me down.",
+    "ts": "2026-08-30T16:28:09+01:00",
+    "screen": "home",
+    "device": "iPhone 15",
+    "app_version": "4.1.2"
+  },
+  {
+    "uid": "u_6e62488",
+    "msg": "Easy peasy Love the app otherwise.",
+    "ts": "2026-08-30T20:39:17+01:00",
+    "screen": "home",
+    "device": "Pixel 7a",
+    "app_version": "4.1.2"
+  },
+  {
+    "uid": "u_6e62488",
+    "msg": "Easy peasy Love the app otherwise.",
+    "ts": "2026-08-30T20:39:17+01:00",
+    "screen": "home",
+    "device": "Pixel 7a",
+    "app_version": "4.1.2"
+  },
+  {
+    "uid": "u_c4fd855",
+    "msg": "Hey team, Never had a problem with the app but the delivery times lately are terrible. Do better.",
+    "ts": "2026-08-31T07:45:46+01:00",
+    "screen": "order_details",
+    "device": "Pixel 8 Pro",
+    "app_version": "4.1.2"
+  },
+  {
+    "uid": "u_db06529",
+    "msg": "Driver marked it delivered. It was not delivered. Won't be ordering again.",
+    "ts": "2026-08-31T09:42:11+01:00",
+    "screen": "order_details",
+    "device": "iPhone 14 Pro",
+    "app_version": "4.2.0"
+  },
+  {
+    "uid": "u_effec10",
+    "msg": "My cat sat on my phone and ordered wings. Not a complaint.",
+    "ts": "2026-08-31T10:50:50+01:00",
+    "screen": "home",
+    "device": "Galaxy S24",
+    "app_version": "4.2.0"
+  },
+  {
+    "uid": "u_e6b2b99",
+    "msg": "Ordered fried chicken from Mama Rosa on Friday and it arrived in 37 minutes. Cheaper than the others too.",
+    "ts": "2026-08-31T17:25:07+01:00",
+    "screen": "home",
+    "device": "Pixel 8",
+    "app_version": "4.2.0"
+  },
+  {
+    "uid": "u_e6b2b99",
+    "msg": "Ordered fried chicken from Mama Rosa on Friday and it arrived in 37 minutes. Cheaper than the others too.",
+    "ts": "2026-08-31T17:25:07+01:00",
+    "screen": "home",
+    "device": "Pixel 8",
+    "app_version": "4.2.0"
+  },
+  {
+    "uid": "u_44da7ee",
+    "msg": "Curry Leaf sent the wrong dish and nobody answers the chat. Disappointed Thx",
+    "ts": "2026-09-01T04:35:03+01:00",
+    "screen": "order_details",
+    "device": "iPhone 14",
+    "app_version": "4.2.0"
+  },
+  {
+    "uid": "u_44da7ee",
+    "msg": "Curry Leaf sent the wrong dish and nobody answers the chat. Disappointed Thx",
+    "ts": "2026-09-01T04:35:03+01:00",
+    "screen": "order_details",
+    "device": "iPhone 14",
+    "app_version": "4.2.0"
+  },
+  {
+    "uid": "u_4d3a1bd",
+    "msg": "Found Green Bowl on here and it's now our regular. Keep it up",
+    "ts": "2026-09-01T08:11:51+01:00",
+    "screen": "home",
+    "device": "iPhone 14 Pro",
+    "app_version": "4.2.0"
+  },
+  {
+    "uid": "u_4d3a1bd",
+    "msg": "Found Green Bowl on here and it's now our regular. Keep it up",
+    "ts": "2026-09-01T08:11:51+01:00",
+    "screen": "home",
+    "device": "iPhone 14 Pro",
+    "app_version": "4.2.0"
+  },
+  {
+    "uid": "u_55cc745",
+    "msg": "right. been using papaeats for 13 months now. never lets me down.",
+    "ts": "2026-09-01T10:46:19+01:00",
+    "screen": "home",
+    "device": "iPhone 13",
+    "app_version": "4.2.0"
+  },
+  {
+    "uid": "u_86f3484",
+    "msg": "ordered poke for the whole family on Sunday... Cheaper than the others too",
+    "ts": "2026-09-01T11:20:59+01:00",
+    "screen": "home",
+    "device": "iPhone 13",
+    "app_version": "4.2.0"
+  },
+  {
+    "uid": "u_5e23959",
+    "msg": "i got charged £23.40 and the order never showed up in my orders. Support please help Please look into it.",
+    "ts": "2026-09-01T11:52:00+01:00",
+    "screen": "checkout",
+    "device": "Pixel 8",
+    "app_version": "4.2.0"
+  },
+  {
+    "uid": "u_0e6f9ec",
+    "msg": "Right. driver left the food at the wrong building. Refund please.",
+    "ts": "2026-09-02T04:55:30+01:00",
+    "screen": "order_details",
+    "device": "Pixel 8",
+    "app_version": "4.2.0"
+  },
+  {
+    "uid": "u_0e6f9ec",
+    "msg": "Right. driver left the food at the wrong building. Refund please.",
+    "ts": "2026-09-02T04:55:30+01:00",
+    "screen": "order_details",
+    "device": "Pixel 8",
+    "app_version": "4.2.0"
+  },
+  {
+    "uid": "u_0c668c1",
+    "msg": "The reorder button is genius",
+    "ts": "2026-09-02T05:24:18+01:00",
+    "screen": "home",
+    "device": "OnePlus 12",
+    "app_version": "4.2.0"
+  },
+  {
+    "uid": "u_132aa34",
+    "msg": "Fantastic service, the driver was lovely and the food was perfect.",
+    "ts": "2026-09-02T06:08:00+01:00",
+    "screen": "home",
+    "device": "iPhone 15 Pro",
+    "app_version": "4.2.0"
+  },
+  {
+    "uid": "u_b5fa4d2",
+    "msg": "FYI Ordered pizza from Curry Leaf for the match and it arrived in 35 minutes. Cheaper than the others too.",
+    "ts": "2026-09-02T07:51:42+01:00",
+    "screen": "home",
+    "device": "Pixel 8",
+    "app_version": "4.2.0"
+  },
+  {
+    "uid": "u_4e5f324",
+    "msg": "Driver marked it delivered. It was not delivered. Disappointed.",
+    "ts": "2026-09-02T10:53:37+01:00",
+    "screen": "order_details",
+    "device": "Xiaomi 14",
+    "app_version": "4.2.0"
+  },
+  {
+    "uid": "u_87124e4",
+    "msg": "FYI decent app, a bit slow sometimes !!",
+    "ts": "2026-09-02T12:02:39+01:00",
+    "screen": "home",
+    "device": "Pixel 8",
+    "app_version": "4.2.0"
+  },
+  {
+    "uid": "u_470e252",
+    "msg": "wrong order delivered. got someone's burgers instead of my greek. won't be ordering again.",
+    "ts": "2026-09-02T14:01:53+01:00",
+    "screen": "order_details",
+    "device": "Pixel 7a",
+    "app_version": "4.2.0"
+  },
+  {
+    "uid": "u_4c6aab9",
+    "msg": "Hey team, Customer support sorted my missing item in five minutes. Impressed.",
+    "ts": "2026-09-02T14:05:52+01:00",
+    "screen": "home",
+    "device": "Pixel 7a",
+    "app_version": "4.2.0"
+  },
+  {
+    "uid": "u_4c6aab9",
+    "msg": "Hey team, Customer support sorted my missing item in five minutes. Impressed.",
+    "ts": "2026-09-02T14:05:52+01:00",
+    "screen": "home",
+    "device": "Pixel 7a",
+    "app_version": "4.2.0"
+  },
+  {
+    "uid": "u_0ed572c",
+    "msg": "FYI Friday night greek sorted in about 26 minutes. So easy.",
+    "ts": "2026-09-02T16:08:21+01:00",
+    "screen": "home",
+    "device": "Galaxy S23",
+    "app_version": "4.2.0"
+  },
+  {
+    "uid": "u_4699747",
+    "msg": "Missing items, again. Paid for 3, got 2. Third time this month.",
+    "ts": "2026-09-02T19:54:32+01:00",
+    "screen": "order_details",
+    "device": "iPhone 14",
+    "app_version": "4.2.0"
+  },
+  {
+    "uid": "u_b9e3316",
+    "msg": "Food was cold and the drink was missing. Disappointed.",
+    "ts": "2026-09-03T05:46:35+01:00",
+    "screen": "order_details",
+    "device": "Xiaomi 14",
+    "app_version": "4.2.0"
+  },
+  {
+    "uid": "u_799bdee",
+    "msg": "Opens for a second then closes. Galaxy S24, Android 14 Thanks.",
+    "ts": "2026-09-03T06:24:12+01:00",
+    "screen": "home",
+    "device": "iPhone 14 Pro",
+    "app_version": "4.2.0"
+  },
+  {
+    "uid": "u_fa9c44c",
+    "msg": "Still orange. Still ugly.",
+    "ts": "2026-09-03T09:00:00+01:00",
+    "screen": "settings",
+    "device": "iPhone 14",
+    "app_version": "4.2.0"
+  },
+  {
+    "uid": "u_ebaba71",
+    "msg": "hey team, ordered tacos for the whole family at lunch. reordering is two taps",
+    "ts": "2026-09-03T12:27:51+01:00",
+    "screen": "home",
+    "device": "iPhone 14 Pro",
+    "app_version": "4.2.0"
+  },
+  {
+    "uid": "u_ebaba71",
+    "msg": "hey team, ordered tacos for the whole family at lunch. reordering is two taps",
+    "ts": "2026-09-03T12:27:51+01:00",
+    "screen": "home",
+    "device": "iPhone 14 Pro",
+    "app_version": "4.2.0"
+  },
+  {
+    "uid": "u_ab019fe",
+    "msg": "Order total didn't match the receipt. The difference is exactly the tip amount !!",
+    "ts": "2026-09-03T15:43:52+01:00",
+    "screen": "receipt",
+    "device": "Pixel 7a",
+    "app_version": "4.2.0"
+  },
+  {
+    "uid": "u_ab019fe",
+    "msg": "Order total didn't match the receipt. The difference is exactly the tip amount !!",
+    "ts": "2026-09-03T15:43:52+01:00",
+    "screen": "receipt",
+    "device": "Pixel 7a",
+    "app_version": "4.2.0"
+  },
+  {
+    "uid": "u_5bd95f0",
+    "msg": "£18 pending on my card, order marked failed. Third time this week.",
+    "ts": "2026-09-03T17:42:00+01:00",
+    "screen": "checkout",
+    "device": "Galaxy A54",
+    "app_version": "4.2.0"
+  },
+  {
+    "uid": "u_03926e4",
+    "msg": "The promo codes are generous and actually work for me !!",
+    "ts": "2026-09-03T18:18:12+01:00",
+    "screen": "home",
+    "device": "Pixel 7a",
+    "app_version": "4.2.0"
+  },
+  {
+    "uid": "u_3c81df1",
+    "msg": "Big fan. Please add more restaurants in Leeds though.",
+    "ts": "2026-09-03T19:06:58+01:00",
+    "screen": "home",
+    "device": "Xiaomi 14",
+    "app_version": "4.2.0"
+  },
+  {
+    "uid": "u_f300e46",
+    "msg": "Found Taco Loco on here and it's now our regular. The tracking is spot on.",
+    "ts": "2026-09-03T20:17:35+01:00",
+    "screen": "home",
+    "device": "OnePlus 12",
+    "app_version": "4.2.0"
+  },
+  {
+    "uid": "u_956287f",
+    "msg": "Hey team, This app has replaced cooking in my house",
+    "ts": "2026-09-03T22:30:28+01:00",
+    "screen": "home",
+    "device": "iPhone SE (2022)",
+    "app_version": "4.2.0"
+  },
+  {
+    "uid": "u_f0d33e8",
+    "msg": "Friday night chinese sorted in about 22 minutes. Exactly what a delivery app should be.",
+    "ts": "2026-09-04T00:54:06+01:00",
+    "screen": "home",
+    "device": "iPhone 14",
+    "app_version": "4.2.0"
+  },
+  {
+    "uid": "u_5e23959",
+    "msg": "The 'fix' update didn't fix anything, payment still fails Love the app otherwise.",
+    "ts": "2026-09-04T13:52:00+01:00",
+    "screen": "checkout",
+    "device": "OnePlus 12",
+    "app_version": "4.2.0"
+  },
+  {
+    "uid": "u_27ac1f0",
+    "msg": "Driver was rude and basically threw the bag at the door. Disappointed",
+    "ts": "2026-09-04T14:02:46+01:00",
+    "screen": "order_details",
+    "device": "Xiaomi 14",
+    "app_version": "4.2.0"
+  },
+  {
+    "uid": "u_a7b25ac",
+    "msg": "Payment loops back to the cart. No error, no order, just the cart again.",
+    "ts": "2026-09-04T21:41:00+01:00",
+    "screen": "checkout",
+    "device": "iPhone 14",
+    "app_version": "4.2.0"
+  },
+  {
+    "uid": "u_cfefaa4",
+    "msg": "Is there a family account option?",
+    "ts": "2026-09-04T22:14:29+01:00",
+    "screen": "home",
+    "device": "Pixel 7a",
+    "app_version": "4.2.0"
+  },
+  {
+    "uid": "u_39b5066",
+    "msg": "So, Customer support sorted my missing item in five minutes. Impressed.",
+    "ts": "2026-09-05T10:15:53+01:00",
+    "screen": "home",
+    "device": "Pixel 8",
+    "app_version": "4.2.0"
+  },
+  {
+    "uid": "u_d2b2056",
+    "msg": "Golden Dragon cancelled my order after 30 minutes of waiting... Won't be ordering again.",
+    "ts": "2026-09-05T11:16:23+01:00",
+    "screen": "order_details",
+    "device": "Galaxy A54",
+    "app_version": "4.2.0"
+  },
+  {
+    "uid": "u_20cd809",
+    "msg": "35 orders in and not a single problem. Keep it up.",
+    "ts": "2026-09-05T11:30:47+01:00",
+    "screen": "home",
+    "device": "OnePlus 12",
+    "app_version": "4.2.0"
+  },
+  {
+    "uid": "u_cc39bc0",
+    "msg": "splitting a £60 order across four cards manually is not fun. Build it in! Love the app otherwise.",
+    "ts": "2026-09-05T11:33:39+01:00",
+    "screen": "cart",
+    "device": "OnePlus 12",
+    "app_version": "4.2.0"
+  },
+  {
+    "uid": "u_9b47c7b",
+    "msg": "FYI The favourites feature is handy. Great app !!",
+    "ts": "2026-09-05T16:44:57+01:00",
+    "screen": "home",
+    "device": "iPhone 16",
+    "app_version": "4.2.0"
+  },
+  {
+    "uid": "u_0212cdc",
+    "msg": "Ordered pasta for the whole family on Friday. Five stars 😩",
+    "ts": "2026-09-05T16:50:30+01:00",
+    "screen": "home",
+    "device": "OnePlus 12",
+    "app_version": "4.2.0"
+  },
+  {
+    "uid": "u_736012a",
+    "msg": "'Something went wrong' at checkout. Every time. Since the update",
+    "ts": "2026-09-05T17:26:00+01:00",
+    "screen": "checkout",
+    "device": "iPhone 14",
+    "app_version": "4.2.0"
+  },
+  {
+    "uid": "u_f408ff5",
+    "msg": "Honestly, order was 68 minutes late with no updates. Come on.",
+    "ts": "2026-09-05T18:35:31+01:00",
+    "screen": "order_details",
+    "device": "iPhone 15 Pro",
+    "app_version": "4.2.0"
+  },
+  {
+    "uid": "u_cef34bd",
+    "msg": "Honestly, so many restaurants near me that I didn't know existed 😩",
+    "ts": "2026-09-05T19:59:14+01:00",
+    "screen": "home",
+    "device": "Galaxy A54",
+    "app_version": "4.2.0"
+  },
+  {
+    "uid": "u_52fb8b2",
+    "msg": "Since the last update I can't place an order. I tap Place Order and it just spins forever Love the app otherwise.",
+    "ts": "2026-09-05T21:10:00+01:00",
+    "screen": "checkout",
+    "device": "iPhone 15 Pro",
+    "app_version": "4.2.0"
+  },
+  {
+    "uid": "u_f0e6666",
+    "msg": "Late, cold, and missing teh sauce. Great 😩",
+    "ts": "2026-09-05T21:23:14+01:00",
+    "screen": "order_details",
+    "device": "iPhone 14",
+    "app_version": "4.2.0"
+  },
+  {
+    "uid": "u_02ad936",
+    "msg": "the refund for my missing items took 8 days. won't be ordering again.",
+    "ts": "2026-09-05T21:24:03+01:00",
+    "screen": "order_details",
+    "device": "iPhone 16",
+    "app_version": "4.2.0"
+  },
+  {
+    "uid": "u_6a4d403",
+    "msg": "Ordered poke from Curry Leaf last night and it arrived in 21 minutes. Great selection round here.",
+    "ts": "2026-09-05T23:20:25+01:00",
+    "screen": "home",
+    "device": "Pixel 8 Pro",
+    "app_version": "4.2.0"
+  },
+  {
+    "uid": "u_39da263",
+    "msg": "Easy to use even for my mum, which says a lot.",
+    "ts": "2026-09-05T23:44:45+01:00",
+    "screen": "home",
+    "device": "Pixel 8 Pro",
+    "app_version": "4.2.0"
+  },
+  {
+    "uid": "u_9945417",
+    "msg": "Service fee plus delivery fee plus small order fee. It's getting silly. Disappointed.",
+    "ts": "2026-09-06T06:11:08+01:00",
+    "screen": "order_details",
+    "device": "Pixel 8",
+    "app_version": "4.2.0"
+  },
+  {
+    "uid": "u_6ceed79",
+    "msg": "This app has replaced cooking in my house",
+    "ts": "2026-09-06T07:24:04+01:00",
+    "screen": "home",
+    "device": "iPhone 14",
+    "app_version": "4.2.0"
+  },
+  {
+    "uid": "u_b7c3a87",
+    "msg": "friday night thai sorted in about 23 minutes. 10/10.",
+    "ts": "2026-09-06T09:08:46+01:00",
+    "screen": "home",
+    "device": "Pixel 8",
+    "app_version": "4.2.0"
+  },
+  {
+    "uid": "u_44e6ff5",
+    "msg": "Driver was rude and basically threw the bag at the door. Third time this month.",
+    "ts": "2026-09-06T11:05:30+01:00",
+    "screen": "order_details",
+    "device": "Galaxy A54",
+    "app_version": "4.2.0"
+  },
+  {
+    "uid": "u_0f2b4ef",
+    "msg": "Taking payment then failing the order is a serious problem. Been happening since the release on the 31st !!",
+    "ts": "2026-09-06T12:28:00+01:00",
+    "screen": "checkout",
+    "device": "iPhone 16",
+    "app_version": "4.2.0"
+  },
+  {
+    "uid": "u_64d6aea",
+    "msg": "Hey team, ordered vegan bowls for the whole family for the match. Brilliant.",
+    "ts": "2026-09-06T13:44:39+01:00",
+    "screen": "home",
+    "device": "Galaxy S23",
+    "app_version": "4.2.0"
+  },
+  {
+    "uid": "u_64d6aea",
+    "msg": "Hey team, ordered vegan bowls for the whole family for the match. Brilliant.",
+    "ts": "2026-09-06T13:44:39+01:00",
+    "screen": "home",
+    "device": "Galaxy S23",
+    "app_version": "4.2.0"
+  },
+  {
+    "uid": "u_806a90b",
+    "msg": "payment failed x3",
+    "ts": "2026-09-06T14:22:00+01:00",
+    "screen": "checkout",
+    "device": "iPhone 14 Pro",
+    "app_version": "4.2.0"
+  },
+  {
+    "uid": "u_7c05673",
+    "msg": "Never had a problem with teh app but the delivery times lately are terrible... Won't be ordering again.",
+    "ts": "2026-09-06T18:47:31+01:00",
+    "screen": "order_details",
+    "device": "Galaxy S24",
+    "app_version": "4.2.0"
+  },
+  {
+    "uid": "u_52c1ea3",
+    "msg": "Five stars, no notes.",
+    "ts": "2026-09-06T19:57:37+01:00",
+    "screen": "home",
+    "device": "OnePlus 12",
+    "app_version": "4.2.0"
+  },
+  {
+    "uid": "u_a3d7774",
+    "msg": "Day 6 of not being able to checkout. Going back to the other app.",
+    "ts": "2026-09-06T20:11:00+01:00",
+    "screen": "checkout",
+    "device": "Galaxy S24",
+    "app_version": "4.2.0"
+  },
+  {
+    "uid": "u_c079609",
+    "msg": "I get every push notification twice. Order confirmed, order confirmed, driver nearby, driver nearby Thx",
+    "ts": "2026-09-06T22:12:49+01:00",
+    "screen": "settings",
+    "device": "Galaxy S24",
+    "app_version": "4.2.0"
+  },
+  {
+    "uid": "u_c079609",
+    "msg": "I get every push notification twice. Order confirmed, order confirmed, driver nearby, driver nearby Thx",
+    "ts": "2026-09-06T22:12:49+01:00",
+    "screen": "settings",
+    "device": "Galaxy S24",
+    "app_version": "4.2.0"
+  },
+  {
+    "uid": "u_d8d97b1",
+    "msg": "Right. waited 72 minutes then got a 'restaurant is busy' cancellation. Come on.",
+    "ts": "2026-09-06T23:41:03+01:00",
+    "screen": "order_details",
+    "device": "iPhone SE (2022)",
+    "app_version": "4.2.0"
+  },
+  {
+    "uid": "u_78e3624",
+    "msg": "Tried to order three nights in a row. Payment failed every night. Deleting the app.",
+    "ts": "2026-09-07T14:30:00+01:00",
+    "screen": "checkout",
+    "device": "iPhone 15",
+    "app_version": "4.2.0"
+  },
+  {
+    "uid": "u_f1f7007",
+    "msg": "29 orders in and not a single problem... Keep it up.",
+    "ts": "2026-09-07T15:08:25+01:00",
+    "screen": "home",
+    "device": "Pixel 8",
+    "app_version": "4.2.0"
+  },
+  {
+    "uid": "u_aa2631b",
+    "msg": "Been using PapaEats for 14 months now. Brilliant Sort it please.",
+    "ts": "2026-09-07T17:14:41+01:00",
+    "screen": "home",
+    "device": "iPhone 16",
+    "app_version": "4.2.0"
+  },
+  {
+    "uid": "u_e80fb89",
+    "msg": "hi, never had a problem with the app but the delivery times lately are terrible. third time this month.",
+    "ts": "2026-09-07T19:48:24+01:00",
+    "screen": "order_details",
+    "device": "Galaxy S23",
+    "app_version": "4.2.0"
+  },
+  {
+    "uid": "u_0357c72",
+    "msg": "how to change phone number",
+    "ts": "2026-09-07T20:08:56+01:00",
+    "screen": "home",
+    "device": "iPhone 13",
+    "app_version": "4.2.0"
+  },
+  {
+    "uid": "u_a8e014d",
+    "msg": "place order button dead",
+    "ts": "2026-09-07T20:23:00+01:00",
+    "screen": "checkout",
+    "device": "iPhone 14 Pro",
+    "app_version": "4.2.0"
+  },
+  {
+    "uid": "u_a11e0df",
+    "msg": "The scheduled delivery feature is brilliant for office lunches",
+    "ts": "2026-09-07T22:03:29+01:00",
+    "screen": "home",
+    "device": "iPhone 13",
+    "app_version": "4.2.0"
+  },
+  {
+    "uid": "u_a11e0df",
+    "msg": "The scheduled delivery feature is brilliant for office lunches",
+    "ts": "2026-09-07T22:03:29+01:00",
+    "screen": "home",
+    "device": "iPhone 13",
+    "app_version": "4.2.0"
+  },
+  {
+    "uid": "u_7846592",
+    "msg": "group order feature when? Love the app otherwise.",
+    "ts": "2026-09-07T22:08:48+01:00",
+    "screen": "cart",
+    "device": "iPhone 15",
+    "app_version": "4.2.0"
+  },
+  {
+    "uid": "u_fb3fcf3",
+    "msg": "order was 63 minutes late with no updates. Won't be ordering again",
+    "ts": "2026-09-07T22:46:57+01:00",
+    "screen": "order_details",
+    "device": "Galaxy A54",
+    "app_version": "4.2.0"
+  },
+  {
+    "uid": "u_a2c4c9d",
+    "msg": "The app is so smooth. Reordering my usual takes two taps.",
+    "ts": "2026-09-07T22:50:03+01:00",
+    "screen": "home",
+    "device": "iPhone 15 Pro",
+    "app_version": "4.2.0"
+  },
+  {
+    "uid": "u_fe2251f",
+    "msg": "Update: still broken on 4.2.1. Same spinner at checkout.",
+    "ts": "2026-09-07T23:06:00+01:00",
+    "screen": "checkout",
+    "device": "iPhone 15",
+    "app_version": "4.2.0"
+  },
+  {
+    "uid": "u_3f4cab6",
+    "msg": "place order button dead",
+    "ts": "2026-09-08T12:45:00+01:00",
+    "screen": "checkout",
+    "device": "Galaxy S23",
+    "app_version": "4.2.0"
+  },
+  {
+    "uid": "u_f0fb655",
+    "msg": "21 orders in and not a single problem. Best delivery app I've used Love the app otherwise.",
+    "ts": "2026-09-08T17:02:49+01:00",
+    "screen": "home",
+    "device": "Pixel 7a",
+    "app_version": "4.2.1"
+  },
+  {
+    "uid": "u_a10ed1f",
+    "msg": "Usually brilliant. can't complete any order since the app updated itself last week.",
+    "ts": "2026-09-08T22:37:00+01:00",
+    "screen": "checkout",
+    "device": "iPhone 16",
+    "app_version": "4.2.0"
+  },
+  {
+    "uid": "u_689cb69",
+    "msg": "Been using PapaEats for a year, never lets me down.",
+    "ts": "2026-09-09T01:10:05+01:00",
+    "screen": "home",
+    "device": "iPhone 13",
+    "app_version": "4.2.1"
+  },
+  {
+    "uid": "u_aa76098",
+    "msg": "Waited 49 minutes then got a 'restaurant is busy' cancellation.",
+    "ts": "2026-09-09T05:31:34+01:00",
+    "screen": "order_details",
+    "device": "iPhone 13",
+    "app_version": "4.2.1"
+  },
+  {
+    "uid": "u_325ed4c",
+    "msg": "crash on open since 4.2 Thx",
+    "ts": "2026-09-09T09:00:22+01:00",
+    "screen": "home",
+    "device": "Galaxy S24",
+    "app_version": "4.2.1"
+  },
+  {
+    "uid": "u_bf57f58",
+    "msg": "Driver left the food at the wrong building. Refund please Anyone else?",
+    "ts": "2026-09-09T13:20:47+01:00",
+    "screen": "order_details",
+    "device": "iPhone 15",
+    "app_version": "4.2.1"
+  },
+  {
+    "uid": "u_c30949f",
+    "msg": "Ugh. got half my order. Support gave me a £2 credit. Insulting. Come on.",
+    "ts": "2026-09-09T14:34:26+01:00",
+    "screen": "order_details",
+    "device": "iPhone 16",
+    "app_version": "4.2.0"
+  },
+  {
+    "uid": "u_799a3a8",
+    "msg": "golden dragon through this app on sunday. 23 minutes door to door. zero complaints love the app otherwise.",
+    "ts": "2026-09-09T17:27:45+01:00",
+    "screen": "home",
+    "device": "iPhone 15 Pro",
+    "app_version": "4.2.0"
+  },
+  {
+    "uid": "u_799a3a8",
+    "msg": "golden dragon through this app on sunday. 23 minutes door to door. zero complaints love the app otherwise.",
+    "ts": "2026-09-09T17:27:45+01:00",
+    "screen": "home",
+    "device": "iPhone 15 Pro",
+    "app_version": "4.2.0"
+  },
+  {
+    "uid": "u_442c79b",
+    "msg": "Depuis la mise à jour, impossible de payer. Ça tourne puis erreur de paiement.",
+    "ts": "2026-09-09T20:05:00+01:00",
+    "screen": "checkout",
+    "device": "iPhone 13",
+    "app_version": "4.2.1"
+  },
+  {
+    "uid": "u_d94f110",
+    "msg": "Can I tip after delivery?",
+    "ts": "2026-09-09T21:27:34+01:00",
+    "screen": "home",
+    "device": "iPhone 16",
+    "app_version": "4.2.0"
+  },
+  {
+    "uid": "u_2638b30",
+    "msg": "Food was cold and the drink was missing.",
+    "ts": "2026-09-09T23:49:25+01:00",
+    "screen": "order_details",
+    "device": "iPhone 16",
+    "app_version": "4.2.0"
+  },
+  {
+    "uid": "u_20fc7c3",
+    "msg": "Ordered indian for the whole family after work. Cheaper than the others too.",
+    "ts": "2026-09-10T00:47:53+01:00",
+    "screen": "home",
+    "device": "Galaxy S24",
+    "app_version": "4.2.1"
+  },
+  {
+    "uid": "u_ec2810c",
+    "msg": "So, Missing items, again. Paid for 3, got 2. Third time this month.",
+    "ts": "2026-09-10T04:22:49+01:00",
+    "screen": "order_details",
+    "device": "Galaxy S23",
+    "app_version": "4.2.0"
+  },
+  {
+    "uid": "u_594a7fb",
+    "msg": "Ugh. late, cold, and missing the sauce. Great. Not impressed.",
+    "ts": "2026-09-10T05:42:23+01:00",
+    "screen": "order_details",
+    "device": "Pixel 8",
+    "app_version": "4.2.1"
+  },
+  {
+    "uid": "u_bae9f5d",
+    "msg": "Usually brilliant. order stuck at 'confirming payment' and never confirms. Had to use a competitor Love the app otherwise.",
+    "ts": "2026-09-10T10:08:00+01:00",
+    "screen": "checkout",
+    "device": "iPhone 13",
+    "app_version": "4.2.0"
+  },
+  {
+    "uid": "u_7051373",
+    "msg": "Wrong order delivered. Got someone's fried chicken instead of my tacos. Sort it out Thanks.",
+    "ts": "2026-09-10T10:20:31+01:00",
+    "screen": "order_details",
+    "device": "OnePlus 12",
+    "app_version": "4.2.1"
+  },
+  {
+    "uid": "u_bdf9aba",
+    "msg": "Is anyone else unable to checkout? Been like this since Monday.",
+    "ts": "2026-09-10T11:31:00+01:00",
+    "screen": "checkout",
+    "device": "Pixel 7a",
+    "app_version": "4.2.0"
+  },
+  {
+    "uid": "u_bdf9aba",
+    "msg": "Is anyone else unable to checkout? Been like this since Monday.",
+    "ts": "2026-09-10T11:31:00+01:00",
+    "screen": "checkout",
+    "device": "Pixel 7a",
+    "app_version": "4.2.0"
+  },
+  {
+    "uid": "u_115ac5b",
+    "msg": "friday night tacos sorted in about 26 minutes. Five stars.",
+    "ts": "2026-09-10T15:31:36+01:00",
+    "screen": "home",
+    "device": "Xiaomi 14",
+    "app_version": "4.2.0"
+  },
+  {
+    "uid": "u_c58498c",
+    "msg": "Driver was rude and basically threw the bag at the door. Do better.",
+    "ts": "2026-09-10T16:04:30+01:00",
+    "screen": "order_details",
+    "device": "OnePlus 12",
+    "app_version": "4.2.1"
+  },
+  {
+    "uid": "u_6051ba0",
+    "msg": "Ordered tacos from Golden Dragon after work and it arrived in 33 minutes. Reordering is two taps Sort it please.",
+    "ts": "2026-09-10T19:07:34+01:00",
+    "screen": "home",
+    "device": "Galaxy S23",
+    "app_version": "4.2.1"
+  },
+  {
+    "uid": "u_f661d76",
+    "msg": "Delivery took over an hour and the sushi was lukewarm. Sort it out.",
+    "ts": "2026-09-11T05:38:26+01:00",
+    "screen": "order_details",
+    "device": "Galaxy A54",
+    "app_version": "4.2.1"
+  },
+  {
+    "uid": "u_c6b7753",
+    "msg": "checkout dead since update",
+    "ts": "2026-09-11T14:28:00+01:00",
+    "screen": "checkout",
+    "device": "OnePlus 12",
+    "app_version": "4.2.0"
+  },
+  {
+    "uid": "u_0f2b4ef",
+    "msg": "Installed the 4.2.1 update hoping it was fixed. It is not. Still can't pay.",
+    "ts": "2026-09-11T17:28:00+01:00",
+    "screen": "checkout",
+    "device": "Pixel 8",
+    "app_version": "4.2.0"
+  },
+  {
+    "uid": "u_c586d94",
+    "msg": "App crashes on launch on my Pixel 8 since the update. Can't even get to the home screen.",
+    "ts": "2026-09-11T19:34:02+01:00",
+    "screen": "home",
+    "device": "Pixel 8",
+    "app_version": "4.2.1"
+  },
+  {
+    "uid": "u_d0bcdb0",
+    "msg": "Cheaper than the other apps and better restaurants.",
+    "ts": "2026-09-11T20:53:31+01:00",
+    "screen": "home",
+    "device": "Galaxy A54",
+    "app_version": "4.2.1"
+  },
+  {
+    "uid": "u_5159ed5",
+    "msg": "the payment step is completely broken on my phone. uninstalled and reinstalled, same problem",
+    "ts": "2026-09-11T21:04:00+01:00",
+    "screen": "checkout",
+    "device": "OnePlus 12",
+    "app_version": "4.2.0"
+  },
+  {
+    "uid": "u_3f14db2",
+    "msg": "good enough.",
+    "ts": "2026-09-11T22:25:37+01:00",
+    "screen": "home",
+    "device": "Pixel 7a",
+    "app_version": "4.2.0"
+  },
+  {
+    "uid": "u_71a40ef",
+    "msg": "alright. some restaurants are overpriced on here.",
+    "ts": "2026-09-12T02:59:59+01:00",
+    "screen": "home",
+    "device": "iPhone 13",
+    "app_version": "4.2.1"
+  },
+  {
+    "uid": "u_beec161",
+    "msg": "easy to use even for my mum, which says a lot.",
+    "ts": "2026-09-12T03:16:21+01:00",
+    "screen": "home",
+    "device": "iPhone SE (2022)",
+    "app_version": "4.2.1"
+  },
+  {
+    "uid": "u_fa892f3",
+    "msg": "Order goes to 'processing' then just disappears. No confirmation email, no order in history, but a pending charge on my card.",
+    "ts": "2026-09-12T15:26:00+01:00",
+    "screen": "checkout",
+    "device": "Galaxy S24",
+    "app_version": "4.2.1"
+  },
+  {
+    "uid": "u_82cedb0",
+    "msg": "Just so you know, Missing items, again... Paid for 3, got 2. Won't be ordering again 😤",
+    "ts": "2026-09-12T15:35:48+01:00",
+    "screen": "order_details",
+    "device": "Xiaomi 14",
+    "app_version": "4.2.1"
+  },
+  {
+    "uid": "u_ccb7813",
+    "msg": "Solid app. Does what it says.",
+    "ts": "2026-09-12T16:35:29+01:00",
+    "screen": "home",
+    "device": "iPhone SE (2022)",
+    "app_version": "4.2.1"
+  },
+  {
+    "uid": "u_ccb7813",
+    "msg": "Solid app. Does what it says.",
+    "ts": "2026-09-12T16:35:29+01:00",
+    "screen": "home",
+    "device": "iPhone SE (2022)",
+    "app_version": "4.2.1"
+  },
+  {
+    "uid": "u_e749d08",
+    "msg": "place order button dead",
+    "ts": "2026-09-12T16:46:00+01:00",
+    "screen": "checkout",
+    "device": "Pixel 8 Pro",
+    "app_version": "4.2.0"
+  },
+  {
+    "uid": "u_f9c0052",
+    "msg": "duplicate push notifs, please fix please look into it.",
+    "ts": "2026-09-12T18:48:19+01:00",
+    "screen": "settings",
+    "device": "iPhone 16",
+    "app_version": "4.2.1"
+  },
+  {
+    "uid": "u_05f368b",
+    "msg": "charged but no order??",
+    "ts": "2026-09-12T22:28:00+01:00",
+    "screen": "checkout",
+    "device": "Galaxy A54",
+    "app_version": "4.2.1"
+  },
+  {
+    "uid": "u_bbfbef0",
+    "msg": "pay screen frozen",
+    "ts": "2026-09-13T12:53:00+01:00",
+    "screen": "checkout",
+    "device": "Xiaomi 14",
+    "app_version": "4.2.1"
+  },
+  {
+    "uid": "u_6c5be15",
+    "msg": "The 'fix' update didn't fix anything, payment still fails 😩",
+    "ts": "2026-09-13T17:01:00+01:00",
+    "screen": "checkout",
+    "device": "iPhone 15",
+    "app_version": "4.2.1"
+  },
+  {
+    "uid": "u_186fef2",
+    "msg": "Desde la actualización no puedo pagar. Se queda cargando y luego dice error de pago.",
+    "ts": "2026-09-13T17:43:00+01:00",
+    "screen": "checkout",
+    "device": "OnePlus 12",
+    "app_version": "4.2.0"
+  },
+  {
+    "uid": "u_7ce196e",
+    "msg": "place order button dead",
+    "ts": "2026-09-13T17:47:00+01:00",
+    "screen": "checkout",
+    "device": "iPhone 14 Pro",
+    "app_version": "4.2.1"
+  },
+  {
+    "uid": "u_ef1276a",
+    "msg": "Waited 93 minutes then got a 'restaurant is busy' cancellation... Sort it out",
+    "ts": "2026-09-13T20:42:51+01:00",
+    "screen": "order_details",
+    "device": "Xiaomi 14",
+    "app_version": "4.2.1"
+  },
+  {
+    "uid": "u_1d6ac81",
+    "msg": "Service fee plus delivery fee plus small order fee. It's getting silly. Won't be ordering again.",
+    "ts": "2026-09-13T21:59:15+01:00",
+    "screen": "order_details",
+    "device": "iPhone SE (2022)",
+    "app_version": "4.2.1"
+  },
+  {
+    "uid": "u_96a4469",
+    "msg": "Not sure if anyone reads these but Friday night pizza sorted in about 22 minutes. Never lets me down Please look into it.",
+    "ts": "2026-09-13T22:05:22+01:00",
+    "screen": "home",
+    "device": "iPhone 14 Pro",
+    "app_version": "4.2.1"
+  }
+]

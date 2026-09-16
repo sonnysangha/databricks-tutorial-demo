@@ -1,0 +1,16 @@
+node_modules/
+.next/
+.databricks/
+.env*
+!.env.example
+.DS_Store
+__pycache__/
+*.pyc
+*.tsbuildinfo
+web/next-env.d.ts
+follow-along/config.json
+my-papaeats/
+papaeats-starter/
+workflow/mlflow/sample.json
+workflow/mlflow/verification.json
+dist/*.json

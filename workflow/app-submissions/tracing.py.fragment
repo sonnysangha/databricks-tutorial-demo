@@ -1,0 +1,57 @@
+def materialize_ai_traced(classified, fresh, metrics):
+    # Observe the real Spark action. Tracing must never cause a second AI action.
+    context = span = experiment = None
+    try:
+        import mlflow
+        mlflow.set_tracking_uri('databricks')
+        experiment = mlflow.set_experiment('/Users/__WORKSPACE_USER__/PapaEats App Classifications')
+        inputs = [r.asDict() for r in fresh.select('source', 'feedback_id', 'message_text').collect()]
+        context = mlflow.start_span(name='Classify new feedback (Spark)', span_type='CHAIN')
+        span = context.__enter__()
+        span.set_inputs({'messages': inputs})
+        span.set_attributes({'classifier_version': CLASSIFIER_VERSION,
+            'measurement': 'Spark materialization and saved response readback; not provider-only latency'})
+        mlflow.update_current_trace(tags={'submission_id': SUBMISSION, 'job_run_id': RUN,
+            'environment': 'papaeats_app_demo', 'classifier_version': CLASSIFIER_VERSION})
+    except Exception as error:
+        metrics['trace_warning'] = type(error).__name__
+        if span is not None:
+            try:
+                context.__exit__(None, None, None)
+            except Exception:
+                pass
+        context = span = None
+
+    try:
+        materialized = save_stage(classified, 'ai_responses')
+    except Exception as error:
+        if context is not None:
+            try:
+                context.__exit__(type(error), error, error.__traceback__)
+            except Exception:
+                pass
+        raise
+
+    if span is not None:
+        try:
+            # Read only the persisted response; never collect the lazy AI plan.
+            outputs = [{'classification': json.loads(r['classification_json']), 'sentiment': r['sentiment']}
+                for r in materialized.select('classification_json', 'sentiment').collect()]
+            span.set_outputs({'results': outputs})
+        except Exception as error:
+            metrics['trace_warning'] = type(error).__name__
+        finally:
+            try:
+                context.__exit__(None, None, None)
+            except Exception as error:
+                metrics['trace_warning'] = type(error).__name__
+        try:
+            mlflow.flush_trace_async_logging()
+            if span.trace_id:
+                metrics['mlflow_trace_id'] = span.trace_id
+                metrics['mlflow_experiment_id'] = experiment.experiment_id
+                save_stage(spark.createDataFrame([(span.trace_id, experiment.experiment_id)],
+                    'trace_id STRING, experiment_id STRING'), 'trace')
+        except Exception as error:
+            metrics['trace_warning'] = type(error).__name__
+    return materialized

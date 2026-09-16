@@ -1,0 +1,91 @@
+bundle:
+  name: papaeats-feedback-refresh
+
+variables:
+  catalog:
+    default: workspace
+  schema:
+    default: papaeats
+  raw_path:
+    default: /Volumes/workspace/papaeats/raw
+
+workspace:
+  root_path: /Workspace/Users/${workspace.current_user.userName}/.bundle/${bundle.name}/${bundle.target}
+
+resources:
+  jobs:
+    feedback_refresh:
+      name: PapaEats Feedback Refresh
+      description: "Manual-only refresh: corrected cleaning, incremental AI analysis, row-level issue grouping and checked publication. Created for review; do not run until reviewed. No schedule or automatic trigger."
+      max_concurrent_runs: 1
+      queue:
+        enabled: false
+      parameters:
+        - name: catalog
+          default: ${var.catalog}
+        - name: schema
+          default: ${var.schema}
+        - name: raw_path
+          default: ${var.raw_path}
+      environments:
+        - environment_key: standard
+          spec:
+            environment_version: '5'
+      tasks:
+        - task_key: prepare_feedback
+          description: "Clean and mask exports; validate keys and contact masking; stage changed records without deleting saved history."
+          environment_key: standard
+          max_retries: 0
+          disable_auto_optimization: true
+          timeout_seconds: 1800
+          notebook_task:
+            notebook_path: ./src/PapaEats Feedback Refresh.py
+            base_parameters:
+              step: prepare
+              refresh_run_id: '{{job.run_id}}'
+        - task_key: analyze_changes
+          description: "Reuse unchanged analysis. Materialize one AI classification response per new or changed message, then validate it."
+          depends_on:
+            - task_key: prepare_feedback
+          run_if: ALL_SUCCESS
+          environment_key: standard
+          max_retries: 0
+          disable_auto_optimization: true
+          timeout_seconds: 3600
+          notebook_task:
+            notebook_path: ./src/PapaEats Feedback Refresh.py
+            base_parameters:
+              step: analyze
+              refresh_run_id: '{{job.run_id}}'
+        - task_key: group_and_check
+          description: "Preserve existing issue labels on unchanged messages; label changed ones and derive counts from exact row membership."
+          depends_on:
+            - task_key: analyze_changes
+          run_if: ALL_SUCCESS
+          environment_key: standard
+          max_retries: 0
+          disable_auto_optimization: true
+          timeout_seconds: 1800
+          notebook_task:
+            notebook_path: ./src/PapaEats Feedback Refresh.py
+            base_parameters:
+              step: group
+              refresh_run_id: '{{job.run_id}}'
+        - task_key: publish_results
+          description: "Publish checked rows and summaries; print counts. Never modify app decision tables."
+          depends_on:
+            - task_key: group_and_check
+          run_if: ALL_SUCCESS
+          environment_key: standard
+          max_retries: 0
+          disable_auto_optimization: true
+          timeout_seconds: 1800
+          notebook_task:
+            notebook_path: ./src/PapaEats Feedback Refresh.py
+            base_parameters:
+              step: publish
+              refresh_run_id: '{{job.run_id}}'
+
+targets:
+  review:
+    default: true
